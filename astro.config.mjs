@@ -9,12 +9,6 @@ export default defineConfig({
       title: 'kMeet',
       description: 'Guide complet de la solution de visioconférence kMeet par Infomaniak',
       defaultLocale: 'fr',
-      locales: {
-        fr: {
-          label: 'Français',
-          lang: 'fr',
-        },
-      },
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/jsiikme/ikdoc' },
       ],

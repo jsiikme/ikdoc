@@ -30,7 +30,7 @@ En cas de problème avec l'app Web kMeet (service en ligne), il est recommandé 
 3. Indiquez un **nom** pour votre salle de réunion.
 4. Autorisez l'accès à votre **webcam** et votre **microphone** lorsque le navigateur ou l'application le demande.
 5. Renseignez un **pseudonyme** ou votre nom et prénom.
-6. Le cas échéant, activez les options avancées : [contrôle des participants](securite.md), [mot de passe](securite.md) ou [clé de chiffrement](securite.md).
+6. Le cas échéant, activez les options avancées : [contrôle des participants](securite/), [mot de passe](securite/) ou [clé de chiffrement](securite/).
 7. Cliquez sur **Rejoindre la réunion**.
 8. **Partagez le lien** du salon (icône utilisateur avec un `+`) pour inviter les participants.
 
@@ -70,7 +70,7 @@ Avec les normes de sécurité actuelles, un navigateur ou une application doit o
 Si votre image reste noire alors que la caméra est activée, vérifiez qu'un **cache de confidentialité mécanique** ne masque pas l'objectif. De nombreux portables ont un petit curseur au-dessus de l'écran : faites-le glisser pour libérer l'image. Aucun réglage logiciel ne permettra d'afficher l'image tant que le cache est fermé.
 </Aside>
 
-Pour aller plus loin en cas de problème : consultez la page [Dépannage](depannage.md).
+Pour aller plus loin en cas de problème : consultez la page [Dépannage](depannage/).
 
 ---
 

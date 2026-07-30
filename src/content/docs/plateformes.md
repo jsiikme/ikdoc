@@ -42,7 +42,7 @@ Accessible sans installation via [kmeet.infomaniak.com](https://kmeet.infomaniak
 | Safari | ✅ |
 
 <Aside type="tip">**Chiffrement E2E et navigateurs**
-Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](securite.md).</Aside>
+Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](securite/).</Aside>
 
 ## Tableau de compatibilité des fonctionnalités
 

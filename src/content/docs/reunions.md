@@ -11,7 +11,7 @@ title: Réunions
 3. Indiquez un **nom** pour votre salle de réunion.
 4. Autorisez l'accès à votre webcam et microphone.
 5. Renseignez un **pseudonyme** ou votre nom et prénom.
-6. Le cas échéant, activez le [contrôle des participants](securite.md), un [mot de passe](securite.md) ou une [clé de chiffrement](securite.md).
+6. Le cas échéant, activez le [contrôle des participants](securite/), un [mot de passe](securite/) ou une [clé de chiffrement](securite/).
 7. Cliquez sur **Rejoindre la réunion**.
 8. **Partagez le lien du salon** pour inviter les participants à vous rejoindre.
 
@@ -27,7 +27,7 @@ Pour rejoindre un kMeet déjà démarré par un autre participant :
 2. Cliquez sur **Rejoindre une réunion**.
 3. Indiquez le **code** de la réunion (par ex. `001-0002-003`) ou son **lien** (que vous pouvez ouvrir directement).
 4. Cliquez sur **OK**.
-5. Autorisez si nécessaire l'accès à votre [webcam](depannage.md) et [microphone](depannage.md).
+5. Autorisez si nécessaire l'accès à votre [webcam](depannage/) et [microphone](depannage/).
 6. Renseignez un pseudonyme ou votre nom et prénom.
 7. Ajustez les réglages selon vos préférences (désactiver la caméra, par exemple).
 8. Cliquez sur le bouton bleu pour **rejoindre la réunion**.
@@ -53,16 +53,16 @@ Plutôt que de créer une réunion immédiate, vous pouvez planifier un rendez-v
     - Démarrer micros fermés
     - Démarrer avec la vidéo de l'administrateur allumée
     - Démarrer avec la vidéo de chaque participant allumée
-    - [Contrôle des participants](securite.md) (modération)
-    - [Mot de passe](securite.md)
-    - [Clé de chiffrement personnalisée](securite.md)
+    - [Contrôle des participants](securite/) (modération)
+    - [Mot de passe](securite/)
+    - [Clé de chiffrement personnalisée](securite/)
 
 9. Cliquez sur **sauvegarder** l'évènement planifié.
 10. L'évènement est ajouté au calendrier. Vous pouvez aussi l'ajouter dans d'autres types de calendrier.
 11. Les **invitations sont envoyées automatiquement** aux participants par mail.
 
 <Aside type="tip" title="Alternative via Calendar">
-Vous pouvez également créer un évènement dans [Calendar Infomaniak](integrations.md) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](integrations.md).
+Vous pouvez également créer un évènement dans [Calendar Infomaniak](integrations/) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](integrations/).
 </Aside>
 
 ## Créer une salle annexe (breakout room)

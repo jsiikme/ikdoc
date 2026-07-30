@@ -42,7 +42,7 @@ kDrive est le service de stockage et de partage de fichiers d'Infomaniak. L'int�
 - Les enregistrements vidéo des réunions kMeet sont stockés sur kDrive au format **.mp4**.
 - L'enregistrement est disponible à la racine du kDrive choisi dès la clôture de la réunion.
 
-Pour la procédure détaillée, consultez la page [Enregistrement et diffusion](enregistrement.md).
+Pour la procédure détaillée, consultez la page [Enregistrement et diffusion](enregistrement/).
 
 <Aside type="note" title="Pièces jointes kDrive dans Calendar">
 Vous pouvez également attacher un fichier issu de kDrive à un évènement de calendrier, ce qui est utile pour préparer une réunion kMeet planifiée.

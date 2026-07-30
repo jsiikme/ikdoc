@@ -1,4 +1,6 @@
-# Démarrage rapide
+---
+title: Démarrage
+---
 
 Ce guide explique comment installer kMeet, lancer une première réunion et autoriser l'accès à la caméra et au micro.
 
@@ -17,8 +19,9 @@ kMeet est disponible sur plusieurs plateformes :
 
 Téléchargement des applications de bureau : [infomaniak.com/fr/applications/telecharger-kmeet](https://www.infomaniak.com/fr/applications/telecharger-kmeet).
 
-!!! tip "App desktop ou app Web ?"
-    En cas de problème avec l'app Web kMeet (service en ligne), il est recommandé d'essayer l'app desktop et vice-versa. L'app desktop offre également des fonctionnalités avancées comme le dessin sur partage d'écran et le contrôle à distance.
+<Aside type="tip">
+En cas de problème avec l'app Web kMeet (service en ligne), il est recommandé d'essayer l'app desktop et vice-versa. L'app desktop offre également des fonctionnalités avancées comme le dessin sur partage d'écran et le contrôle à distance.
+</Aside>
 
 ## Lancer une première réunion
 
@@ -43,25 +46,29 @@ Avec les normes de sécurité actuelles, un navigateur ou une application doit o
 
 ### Vérifier les autorisations système
 
-=== "macOS"
+<Tabs>
+  <Tab title="macOS">
     1. Menu Pomme > **Réglages Système** > **Confidentialité et sécurité**.
     2. Cliquez sur **Microphone** : vérifiez que votre navigateur ou l'app kMeet est coché.
     3. Cliquez sur **Enregistrement de l'écran** (pour le partage d'écran) : ajoutez le navigateur ou kMeet si nécessaire.
-
-=== "Windows"
+  </Tab>
+  <Tab title="Windows">
     1. **Paramètres** > **Confidentialité et sécurité** > **Microphone**.
     2. Vérifiez que **« Accès au microphone »** est activé.
     3. Vérifiez que **« Autoriser les applications de bureau à accéder à votre microphone »** est activé pour kMeet ou votre navigateur.
-
-=== "iOS"
+  </Tab>
+  <Tab title="iOS">
     - **Réglages** > kMeet > vérifiez que **Micro** est activé.
     - Vérifiez aussi dans **Réglages** > **Confidentialité** > **Micro**.
-
-=== "Android"
+  </Tab>
+  <Tab title="Android">
     - **Paramètres** > **Applications** > kMeet > **Autorisations** > Micro > **Autoriser si l'appli est utilisée**.
+  </Tab>
+</Tabs>
 
-!!! warning "Cache physique de la caméra"
-    Si votre image reste noire alors que la caméra est activée, vérifiez qu'un **cache de confidentialité mécanique** ne masque pas l'objectif. De nombreux portables ont un petit curseur au-dessus de l'écran : faites-le glisser pour libérer l'image. Aucun réglage logiciel ne permettra d'afficher l'image tant que le cache est fermé.
+<Aside type="caution">
+Si votre image reste noire alors que la caméra est activée, vérifiez qu'un **cache de confidentialité mécanique** ne masque pas l'objectif. De nombreux portables ont un petit curseur au-dessus de l'écran : faites-le glisser pour libérer l'image. Aucun réglage logiciel ne permettra d'afficher l'image tant que le cache est fermé.
+</Aside>
 
 Pour aller plus loin en cas de problème : consultez la page [Dépannage](depannage.md).
 

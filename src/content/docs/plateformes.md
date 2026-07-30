@@ -1,4 +1,6 @@
-# Plateformes
+---
+title: Plateformes
+---
 
 kMeet est disponible sur ordinateur, mobile et directement dans le navigateur. La solution utilise la technologie **WebRTC**, prise en charge par la plupart des navigateurs modernes.
 
@@ -21,8 +23,8 @@ Des applications gratuites sont disponibles sur :
 
 Vous pouvez créer ou rejoindre des réunions directement depuis votre smartphone.
 
-!!! note "Limitation iOS"
-    Le **partage d'écran n'est pas encore possible** avec l'app mobile iOS. Il est disponible sur l'app mobile Android et sur l'app Web/desktop.
+<Aside type="note">**Limitation iOS**
+Le **partage d'écran n'est pas encore possible** avec l'app mobile iOS. Il est disponible sur l'app mobile Android et sur l'app Web/desktop.</Aside>
 
 ## Version Web
 
@@ -32,28 +34,28 @@ Accessible sans installation via [kmeet.infomaniak.com](https://kmeet.infomaniak
 
 | Navigateur | Compatibilité |
 |---|---|
-| Google Chrome | :material-check: |
-| Microsoft Edge | :material-check: |
-| Mozilla Firefox | :material-check: |
-| Opera | :material-check: |
-| Brave | :material-check: |
-| Safari | :material-check: |
+| Google Chrome | ✅ |
+| Microsoft Edge | ✅ |
+| Mozilla Firefox | ✅ |
+| Opera | ✅ |
+| Brave | ✅ |
+| Safari | ✅ |
 
-!!! tip "Chiffrement E2E et navigateurs"
-    Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](securite.md).
+<Aside type="tip">**Chiffrement E2E et navigateurs**
+Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](securite.md).</Aside>
 
 ## Tableau de compatibilité des fonctionnalités
 
 | Fonctionnalité | Web | Desktop | Android | iOS |
 |---|:---:|:---:|:---:|:---:|
-| Créer / rejoindre une réunion | :material-check: | :material-check: | :material-check: | :material-check: |
-| Chat et réactions | :material-check: | :material-check: | :material-check: | :material-check: |
-| Partage d'écran | :material-check: | :material-check: | :material-check: | :material-close: |
-| Dessin / tableau blanc | :material-close: | :material-check: | :material-close: | :material-close: |
-| Contrôle à distance | :material-close: | :material-check: | :material-close: | :material-close: |
-| Enregistrement sur kDrive | :material-check: | :material-check: | :material-check: | :material-check: |
-| Chiffrement E2E | :material-check:¹ | :material-check: | :material-close: | :material-close: |
-| Streaming en direct | :material-check: | :material-check: | :material-check: | :material-check: |
+| Créer / rejoindre une réunion | ✅ | ✅ | ✅ | ✅ |
+| Chat et réactions | ✅ | ✅ | ✅ | ✅ |
+| Partage d'écran | ✅ | ✅ | ✅ | ❌ |
+| Dessin / tableau blanc | ❌ | ✅ | ❌ | ❌ |
+| Contrôle à distance | ❌ | ✅ | ❌ | ❌ |
+| Enregistrement sur kDrive | ✅ | ✅ | ✅ | ✅ |
+| Chiffrement E2E | ✅¹ | ✅ | ❌ | ❌ |
+| Streaming en direct | ✅ | ✅ | ✅ | ✅ |
 
 ¹ Nécessite un navigateur basé sur Chromium.
 

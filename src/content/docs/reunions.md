@@ -1,3 +1,7 @@
+---
+title: Réunions
+---
+
 # Créer et rejoindre une réunion
 
 ## Créer une réunion
@@ -11,8 +15,9 @@
 7. Cliquez sur **Rejoindre la réunion**.
 8. **Partagez le lien du salon** pour inviter les participants à vous rejoindre.
 
-!!! info "Pas de limite de participants"
-    Il n'y a pas de limite de participants avec les offres kSuite payantes. Vous pouvez créer autant de salles de réunions que désiré. Pour qu'une salle soit active, il faut qu'au moins un participant s'y trouve.
+<Aside type="note" title="Pas de limite de participants">
+Il n'y a pas de limite de participants avec les offres kSuite payantes. Vous pouvez créer autant de salles de réunions que désiré. Pour qu'une salle soit active, il faut qu'au moins un participant s'y trouve.
+</Aside>
 
 ## Rejoindre une réunion
 
@@ -28,8 +33,9 @@ Pour rejoindre un kMeet déjà démarré par un autre participant :
 8. Cliquez sur le bouton bleu pour **rejoindre la réunion**.
 9. Saisissez si nécessaire le **mot de passe** et/ou la **clé de chiffrement** communiqués par l'organisateur.
 
-!!! tip "Obtenir le lien de la réunion"
-    Le créateur de la réunion peut obtenir et partager le lien en cliquant sur l'icône utilisateur avec un signe plus (`+`).
+<Aside type="tip" title="Obtenir le lien de la réunion">
+Le créateur de la réunion peut obtenir et partager le lien en cliquant sur l'icône utilisateur avec un signe plus (`+`).
+</Aside>
 
 ## Planifier une réunion à l'avance
 
@@ -55,15 +61,17 @@ Plutôt que de créer une réunion immédiate, vous pouvez planifier un rendez-v
 10. L'évènement est ajouté au calendrier. Vous pouvez aussi l'ajouter dans d'autres types de calendrier.
 11. Les **invitations sont envoyées automatiquement** aux participants par mail.
 
-!!! tip "Alternative via Calendar"
-    Vous pouvez également créer un évènement dans [Calendar Infomaniak](integrations.md) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](integrations.md).
+<Aside type="tip" title="Alternative via Calendar">
+Vous pouvez également créer un évènement dans [Calendar Infomaniak](integrations.md) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](integrations.md).
+</Aside>
 
 ## Créer une salle annexe (breakout room)
 
 Les salles annexes permettent de **diviser une réunion principale en plusieurs discussions simultanées** dans des espaces virtuels distincts.
 
-!!! note "Prérequis"
-    Seul un **modérateur** peut créer ces salles et gérer les participants entre la salle principale et les sous-groupes.
+<Aside type="note" title="Prérequis">
+Seul un **modérateur** peut créer ces salles et gérer les participants entre la salle principale et les sous-groupes.
+</Aside>
 
 Pour ajouter une ou plusieurs salles annexes :
 

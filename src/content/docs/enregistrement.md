@@ -1,14 +1,17 @@
-# Enregistrement et diffusion
+---
+title: Enregistrement et diffusion
+---
 
 ## Enregistrer une réunion sur kDrive
 
 kMeet permet d'enregistrer une réunion en vidéo, stockée sur votre [kDrive](integrations.md) Infomaniak.
 
-!!! note "Caractéristiques de l'enregistrement"
-    - L'enregistrement se fait **côté serveur** : aucune charge pour l'ordinateur du participant qui le lance.
-    - Format vidéo **.mp4**.
-    - Durée maximale de **3 heures**.
-    - La vidéo **n'est pas disponible** tant que tout le monde n'a pas quitté la visioconférence (y compris le modérateur) ou tant que quelqu'un n'a pas stoppé l'enregistrement manuellement.
+<Aside type="note" title="Caractéristiques de l'enregistrement">
+- L'enregistrement se fait **côté serveur** : aucune charge pour l'ordinateur du participant qui le lance.
+- Format vidéo **.mp4**.
+- Durée maximale de **3 heures**.
+- La vidéo **n'est pas disponible** tant que tout le monde n'a pas quitté la visioconférence (y compris le modérateur) ou tant que quelqu'un n'a pas stoppé l'enregistrement manuellement.
+</Aside>
 
 ### Prérequis
 
@@ -33,8 +36,9 @@ L'enregistrement est disponible à la **racine du kDrive** choisi dès la clôtu
 
 kMeet permet de diffuser une réunion dans un flux séparé accessible par une URL unique, grâce au **Streaming Vidéo** Infomaniak.
 
-!!! warning "Disponibilité"
-    Le mode Streaming en direct n'est **pas disponible** avec kSuite gratuit, kSuite Standard, my kSuite et my kSuite+ (ik.me, etik.com, ikmail.com).
+<Aside type="caution" title="Disponibilité">
+Le mode Streaming en direct n'est **pas disponible** avec kSuite gratuit, kSuite Standard, my kSuite et my kSuite+ (ik.me, etik.com, ikmail.com).
+</Aside>
 
 ### Avantages du streaming vs. réunion kMeet
 
@@ -49,9 +53,10 @@ kMeet permet de diffuser une réunion dans un flux séparé accessible par une U
 
 ### Procédure
 
-!!! note "Prérequis"
-    - Être **modérateur** du kMeet pour créer un lien de diffusion live.
-    - Il n'est **pas nécessaire** de posséder une offre de Streaming vidéo Infomaniak.
+<Aside type="note" title="Prérequis">
+- Être **modérateur** du kMeet pour créer un lien de diffusion live.
+- Il n'est **pas nécessaire** de posséder une offre de Streaming vidéo Infomaniak.
+</Aside>
 
 1. Démarrez kMeet via [ksuite.infomaniak.com/kmeet](https://ksuite.infomaniak.com/kmeet) ou depuis une application.
 2. Une fois dans la réunion, cliquez sur le menu d'action **○○○** dans la barre d'outils.
@@ -61,16 +66,18 @@ kMeet permet de diffuser une réunion dans un flux séparé accessible par une U
 6. Une fois le lien du stream affiché, cliquez sur l'icône à droite pour **copier l'URL** du flux en direct.
 7. Collez l'URL dans un message à l'attention des participants ou spectateurs.
 
-!!! info "Durée et disponibilité"
-    Le flux est diffusé en continu pendant **24 heures maximum** et **ne sera plus accessible** dès que la réunion kMeet est stoppée.
+<Aside type="note" title="Durée et disponibilité">
+Le flux est diffusé en continu pendant **24 heures maximum** et **ne sera plus accessible** dès que la réunion kMeet est stoppée.
+</Aside>
 
 ## Transcrire en direct (sous-titres automatiques)
 
 kMeet propose une **transcription automatique** qui affiche des sous-titres en temps réel, facilitant la compréhension des échanges et répondant aux besoins d'accessibilité.
 
-!!! note "Prérequis"
-    - Au minimum le **modérateur** de la réunion doit posséder **kSuite** (offres **Business** ou **Enterprise** uniquement).
-    - S'il active les sous-titres, alors **tous les participants** (même anonymes ou sans kSuite) pourront activer la transcription.
+<Aside type="note" title="Prérequis">
+- Au minimum le **modérateur** de la réunion doit posséder **kSuite** (offres **Business** ou **Enterprise** uniquement).
+- S'il active les sous-titres, alors **tous les participants** (même anonymes ou sans kSuite) pourront activer la transcription.
+</Aside>
 
 ### Procédure
 

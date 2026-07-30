@@ -1,4 +1,6 @@
-# Migration depuis Skype
+---
+title: Migration depuis Skype
+---
 
 Infomaniak propose de remplacer **Skype** par kMeet et les outils associés, que ce soit pour des appels individuels, des réunions à distance ou des échanges de groupes.
 

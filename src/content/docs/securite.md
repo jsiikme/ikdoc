@@ -1,4 +1,6 @@
-# Sécurité et modération
+---
+title: Sécurité et modération
+---
 
 ## Protéger une réunion par mot de passe
 
@@ -13,15 +15,17 @@ Vous pouvez protéger l'accès à une réunion par un mot de passe, à transmett
 7. Spécifiez le nom que vous voulez utiliser comme participant.
 8. Partagez le **lien ou le code de la réunion** ainsi que le **mot de passe** à vos participants.
 
-!!! tip "Retrouver le mot de passe"
-    Vous pouvez réafficher le mot de passe si nécessaire via le bouton dédié à l'invitation des participants.
+<Aside type="tip" title="Retrouver le mot de passe">
+Vous pouvez réafficher le mot de passe si nécessaire via le bouton dédié à l'invitation des participants.
+</Aside>
 
 ## Chiffrement de bout en bout (E2E)
 
 Au-delà du chiffrement AES-256 appliqué par défaut par les serveurs Infomaniak, vous pouvez définir **votre propre clé de chiffrement** pour un chiffrement de bout en bout.
 
-!!! warning "Prérequis technique"
-    Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les navigateurs à jour basés sur l'architecture **Chromium** (Google Chrome, Microsoft Edge, Opera, Brave, etc.).
+<Aside type="caution" title="Prérequis technique">
+Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les navigateurs à jour basés sur l'architecture **Chromium** (Google Chrome, Microsoft Edge, Opera, Brave, etc.).
+</Aside>
 
 ### Procédure
 
@@ -29,9 +33,10 @@ Au-delà du chiffrement AES-256 appliqué par défaut par les serveurs Infomania
 2. Activez le bouton à bascule pour **chiffrer de bout en bout**.
 3. Lors du démarrage de la visioconférence, **un message audio** se fait entendre pour annoncer le chiffrement de bout en bout.
 
-!!! note "Limites du chiffrement E2E"
-    - L'[enregistrement sur kDrive](enregistrement.md) **n'est pas compatible** avec le chiffrement E2E.
-    - Le chiffrement E2E n'est **pas disponible sur mobile** pour le moment.
+<Aside type="note" title="Limites du chiffrement E2E">
+- L'[enregistrement sur kDrive](enregistrement.md) **n'est pas compatible** avec le chiffrement E2E.
+- Le chiffrement E2E n'est **pas disponible sur mobile** pour le moment.
+</Aside>
 
 ## Modération des participants
 

@@ -1,4 +1,6 @@
-# Foire aux questions
+---
+title: FAQ
+---
 
 Questions fréquentes condensées à partir de la page produit et des FAQ Infomaniak.
 
@@ -14,8 +16,9 @@ Oui, il suffit de télécharger l'app gratuite kMeet sur votre mobile **iOS** ou
 
 kMeet permet de partager la **totalité de votre écran**, l'application ou l'onglet de votre choix. Démarrez votre réunion, cliquez sur le bouton **Partagez votre écran** et choisissez ce que vous souhaitez partager avec les participants. Vous pouvez à tout moment stopper le partage.
 
-!!! note "Limitation iOS"
-    Le partage d'écran n'est pas encore possible avec l'app mobile iOS. Voir [Plateformes](plateformes.md).
+<Aside type="note" title="Limitation iOS">
+Le partage d'écran n'est pas encore possible avec l'app mobile iOS. Voir [Plateformes](plateformes.md).
+</Aside>
 
 ### Existe-t-il une fonction de Chat sur kMeet ?
 
@@ -29,8 +32,9 @@ Les réunions kMeet sont **chiffrées par défaut** (AES-256) par les serveurs I
 
 kMeet permet d'enregistrer vos réunions dans **kDrive**. Démarrez votre réunion, activez l'enregistrement et ce dernier apparaitra automatiquement à la racine du kDrive choisi. Voir [Enregistrement](enregistrement.md).
 
-!!! note "Compatibilité E2E"
-    L'enregistrement n'est pas compatible avec le chiffrement de bout en bout.
+<Aside type="note" title="Compatibilité E2E">
+L'enregistrement n'est pas compatible avec le chiffrement de bout en bout.
+</Aside>
 
 ### Combien de participants puis-je accueillir ?
 

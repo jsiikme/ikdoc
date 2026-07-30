@@ -1,4 +1,6 @@
-# Intégrations
+---
+title: Intégrations
+---
 
 kMeet s'intègre nativement aux autres outils de la kSuite Infomaniak et peut être personnalisé avec Custom Brand.
 
@@ -17,8 +19,9 @@ kMeet peut être relié directement à votre agenda Infomaniak : chaque évènem
 
 Les invitations sont envoyées automatiquement par mail, contenant le lien kMeet cliquable. Le lien est également visible sur l'évènement dans le calendrier.
 
-!!! tip "Astuce"
-    Vous pouvez aussi cliquer directement sur le calendrier et faire glisser le pointeur sur une période horaire pour créer un évènement rapidement.
+<Aside type="tip" title="Astuce">
+Vous pouvez aussi cliquer directement sur le calendrier et faire glisser le pointeur sur une période horaire pour créer un évènement rapidement.
+</Aside>
 
 ## kChat
 
@@ -28,8 +31,9 @@ kMeet est intégré à **kChat**, le service de messagerie instantanée d'Infoma
 2. Depuis n'importe quelle conversation (directe ou canal), cliquez sur le bouton **Appeler**.
 3. Appelez directement un utilisateur sur une discussion directe, ou déclenchez un appel à tous les membres d'un canal.
 
-!!! info "Disponibilité"
-    La fonction d'appel dans kChat est disponible sur toutes les versions : Web (navigateur), mobile (iOS / Android) et ordinateur (macOS / Windows). L'appel se fait avec la technologie kMeet au sein de kChat, ou sur l'app kMeet si celle-ci est installée.
+<Aside type="note" title="Disponibilité">
+La fonction d'appel dans kChat est disponible sur toutes les versions : Web (navigateur), mobile (iOS / Android) et ordinateur (macOS / Windows). L'appel se fait avec la technologie kMeet au sein de kChat, ou sur l'app kMeet si celle-ci est installée.
+</Aside>
 
 ## kDrive
 
@@ -40,8 +44,9 @@ kDrive est le service de stockage et de partage de fichiers d'Infomaniak. L'int�
 
 Pour la procédure détaillée, consultez la page [Enregistrement et diffusion](enregistrement.md).
 
-!!! note "Pièces jointes kDrive dans Calendar"
-    Vous pouvez également attacher un fichier issu de kDrive à un évènement de calendrier, ce qui est utile pour préparer une réunion kMeet planifiée.
+<Aside type="note" title="Pièces jointes kDrive dans Calendar">
+Vous pouvez également attacher un fichier issu de kDrive à un évènement de calendrier, ce qui est utile pour préparer une réunion kMeet planifiée.
+</Aside>
 
 ## Custom Brand
 
@@ -53,8 +58,9 @@ Avec **Custom Brand**, vous pouvez personnaliser l'image de marque de kMeet (et 
 
 Ainsi, quand vous partagez des documents ou que vous organisez des vidéoconférences, vos clients restent dans **votre univers de marque**.
 
-!!! tip "Soutenir un web respectueux de la vie privée"
-    kMeet est gratuit et illimité, mais vous n'êtes pas le produit. Pour soutenir un web respectueux de la vie privée, parlez de kMeet à vos contacts et personnalisez vos outils avec Custom Brand.
+<Aside type="tip" title="Soutenir un web respectueux de la vie privée">
+kMeet est gratuit et illimité, mais vous n'êtes pas le produit. Pour soutenir un web respectueux de la vie privée, parlez de kMeet à vos contacts et personnalisez vos outils avec Custom Brand.
+</Aside>
 
 En savoir plus : [infomaniak.com/fr/ksuite/custom-brand](https://www.infomaniak.com/fr/ksuite/custom-brand).
 

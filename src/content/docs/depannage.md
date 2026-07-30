@@ -1,9 +1,12 @@
-# Dépannage
+---
+title: Dépannage
+---
 
 Ce guide aide à résoudre les problèmes les plus courants avec kMeet.
 
-!!! tip "App desktop ou app Web ?"
-    En cas de problème avec l'app Web, essayez l'app desktop et vice-versa. L'app desktop offre généralement une meilleure stabilité.
+<Aside type="tip" title="App desktop ou app Web ?">
+En cas de problème avec l'app Web, essayez l'app desktop et vice-versa. L'app desktop offre généralement une meilleure stabilité.
+</Aside>
 
 ## Problèmes audio
 
@@ -30,22 +33,25 @@ Un problème audio peut être de deux types : soit les autres ne vous entendent 
 
 ### 4. Vérifier les autorisations système
 
-=== "macOS"
+<Tabs>
+  <Tab title="macOS">
     1. Menu Pomme > **Réglages Système** > **Confidentialité et sécurité**.
     2. Cliquez sur **Microphone**.
     3. Vérifiez que votre navigateur (Chrome, Firefox) ou l'app kMeet est bien coché.
-
-=== "Windows"
+  </Tab>
+  <Tab title="Windows">
     1. **Paramètres** > **Confidentialité et sécurité** > **Microphone**.
     2. Vérifiez que **« Accès au microphone »** est activé.
     3. Vérifiez que **« Autoriser les applications de bureau à accéder à votre microphone »** est activé pour kMeet ou votre navigateur.
-
-=== "iOS"
+  </Tab>
+  <Tab title="iOS">
     - **Réglages** > kMeet > vérifiez que **Micro** est activé.
     - Vérifiez aussi dans **Réglages** > **Confidentialité** > **Micro**.
-
-=== "Android"
+  </Tab>
+  <Tab title="Android">
     - **Paramètres** > **Applications** > kMeet > **Autorisations** > Micro > **Autoriser si l'appli est utilisée**.
+  </Tab>
+</Tabs>
 
 ### 5. Désactiver les extensions bloquantes
 
@@ -85,21 +91,25 @@ Si votre image reste noire alors que la caméra est activée, il se peut que l'o
 - Si vous voyez un point **rouge** ou une pastille opaque, le cache est fermé.
 - Faites **glisser le curseur latéralement** pour libérer l'image.
 
-!!! note "Dispositif mécanique"
-    Ce dispositif étant mécanique, aucun réglage logiciel ne pourra activer l'image tant que le cache n'est pas poussé manuellement.
+<Aside type="note" title="Dispositif mécanique">
+Ce dispositif étant mécanique, aucun réglage logiciel ne pourra activer l'image tant que le cache n'est pas poussé manuellement.
+</Aside>
 
 ## Partage d'écran impossible
 
 Si le bouton de partage d'écran n'est pas disponible ou reste grisé, vérifiez les **paramètres de sécurité** de votre système concernant l'application kMeet ou votre navigateur.
 
-=== "macOS"
+<Tabs>
+  <Tab title="macOS">
     1. **Réglages du système** > **Confidentialité et sécurité** > **Enregistrement de l'écran**.
     2. Ajoutez votre **navigateur** et/ou l'app **kMeet** si nécessaire.
     3. Vérifiez les icônes dans la barre d'adresse de votre navigateur.
-
-=== "Autres systèmes"
+  </Tab>
+  <Tab title="Autres systèmes">
     - Vérifiez les autorisations d'enregistrement d'écran dans les paramètres de confidentialité de votre système.
     - Consultez aussi les icônes de la barre d'adresse du navigateur pour détecter un éventuel souci d'autorisation.
+  </Tab>
+</Tabs>
 
 ## Impossible de voir ou d'entendre le correspondant
 
@@ -115,8 +125,9 @@ Un pare-feu peut autoriser des solutions comme Google Meet ou Microsoft Teams sa
     - `185.125.24.0/24` (TCP)
     - `185.125.24.0/24` (UDP)
 
-!!! tip "Test alternatif"
-    Vous pouvez également changer de connexion (de Wi-Fi à 4G/5G par exemple) pour vérifier si un pare-feu est à l'origine des désynchronisations.
+<Aside type="tip" title="Test alternatif">
+Vous pouvez également changer de connexion (de Wi-Fi à 4G/5G par exemple) pour vérifier si un pare-feu est à l'origine des désynchronisations.
+</Aside>
 
 ---
 

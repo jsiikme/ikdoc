@@ -1,4 +1,6 @@
-# Présentation de kMeet
+---
+title: Présentation
+---
 
 kMeet est la solution de visioconférence d'Infomaniak : **sécurisée, illimitée et gratuite**. Elle permet d'organiser des réunions en ligne et de travailler à distance avec une solution éthique de visioconférence.
 

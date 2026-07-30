@@ -16,19 +16,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.11'
+          node-version: '22'
+          cache: 'npm'
 
-      - name: Install MkDocs and Material
-        run: pip install mkdocs mkdocs-material
+      - name: Install dependencies
+        run: npm install
 
       - name: Build site
-        run: mkdocs build --strict
+        run: npm run build
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --no-history
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

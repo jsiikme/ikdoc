@@ -1,0 +1,127 @@
+# Dépannage
+
+Ce guide aide à résoudre les problèmes les plus courants avec kMeet.
+
+!!! tip "App desktop ou app Web ?"
+    En cas de problème avec l'app Web, essayez l'app desktop et vice-versa. L'app desktop offre généralement une meilleure stabilité.
+
+## Problèmes audio
+
+Un problème audio peut être de deux types : soit les autres ne vous entendent pas (**micro**), soit vous n'entendez pas les autres (**haut-parleurs/sortie**).
+
+### 1. Vérifier le matériel et les réglages de base
+
+- **Bouton Muet** : vérifiez que votre micro n'est pas coupé dans l'interface kMeet (icône micro rouge) ou via un bouton physique sur votre casque.
+- **Branchements** : débranchez et rebranchez votre casque ou micro externe (privilégiez les ports USB directs plutôt que les hubs).
+- **Volume système** : vérifiez que le volume de votre appareil n'est pas à zéro ou en mode « Ne pas déranger ».
+
+### 2. Configurer les paramètres audio dans kMeet
+
+1. Accédez aux **Paramètres**.
+2. Allez dans l'onglet **Audio**.
+3. **Microphone** : sélectionnez le bon périphérique. Parlez : une barre de volume bleue doit bouger si le micro capte du son.
+4. **Sortie audio** : sélectionnez vos haut-parleurs ou votre casque. Cliquez sur **Tester** pour vérifier.
+
+### 3. (Ré)autoriser le micro dans le navigateur
+
+- Cliquez sur l'icône de **cadenas** (ou réglages de site) à gauche de l'adresse URL (*kmeet.infomaniak.com*).
+- Vérifiez que **Microphone** est réglé sur **Autoriser**.
+- Si vous changez ce réglage sans effet, **actualisez la page** (F5).
+
+### 4. Vérifier les autorisations système
+
+=== "macOS"
+    1. Menu Pomme > **Réglages Système** > **Confidentialité et sécurité**.
+    2. Cliquez sur **Microphone**.
+    3. Vérifiez que votre navigateur (Chrome, Firefox) ou l'app kMeet est bien coché.
+
+=== "Windows"
+    1. **Paramètres** > **Confidentialité et sécurité** > **Microphone**.
+    2. Vérifiez que **« Accès au microphone »** est activé.
+    3. Vérifiez que **« Autoriser les applications de bureau à accéder à votre microphone »** est activé pour kMeet ou votre navigateur.
+
+=== "iOS"
+    - **Réglages** > kMeet > vérifiez que **Micro** est activé.
+    - Vérifiez aussi dans **Réglages** > **Confidentialité** > **Micro**.
+
+=== "Android"
+    - **Paramètres** > **Applications** > kMeet > **Autorisations** > Micro > **Autoriser si l'appli est utilisée**.
+
+### 5. Désactiver les extensions bloquantes
+
+Certaines extensions de navigateur (AdBlockers, extensions de protection de la vie privée comme *uBlock Origin* ou *Privacy Badger*) peuvent bloquer les flux audio/vidéo.
+
+- Essayez de désactiver vos extensions ou d'ouvrir le lien kMeet dans une **fenêtre de navigation privée** pour tester.
+
+### 6. Firefox et WebRTC
+
+kMeet utilise la technologie WebRTC. Désactiver WebRTC dans Firefox n'est pas recommandé. En cas de problème avec Firefox :
+
+1. Vérifiez dans **Paramètres** > **Vie privée et sécurité** > **Permissions**.
+2. À côté de « Microphone », cliquez sur **Paramètres** et assurez-vous que *kmeet.infomaniak.com* n'est pas dans la liste « Bloquer ».
+3. Vérifiez aussi que la **Lecture automatique** (Autoplay) est autorisée pour l'audio sur kMeet.
+
+### 7. En dernier recours
+
+Si le problème persiste, il s'agit probablement d'une panne matérielle ou d'un conflit de pilotes :
+
+- Rejoignez la réunion depuis un **autre appareil** (passer de l'ordinateur au smartphone via l'app kMeet).
+
+## Problèmes vidéo
+
+### Autoriser l'accès à la caméra
+
+1. Démarrez kMeet et lancez une nouvelle réunion.
+2. Indiquez un nom pour votre salle.
+3. Un popup devrait vous demander d'autoriser le navigateur à accéder à votre micro et caméra.
+4. Si le popup ne s'affiche pas, vérifiez les **icônes dans l'en-tête** de votre navigateur.
+5. Dans les paramètres du navigateur, réglez les autorisations et le choix de caméra s'il y en a plusieurs.
+
+### Caméra ne fonctionne pas ? Vérifiez le cache physique
+
+Si votre image reste noire alors que la caméra est activée, il se peut que l'objectif soit masqué par un **cache de confidentialité** intégré.
+
+- Observez l'objectif en haut de votre écran.
+- Si vous voyez un point **rouge** ou une pastille opaque, le cache est fermé.
+- Faites **glisser le curseur latéralement** pour libérer l'image.
+
+!!! note "Dispositif mécanique"
+    Ce dispositif étant mécanique, aucun réglage logiciel ne pourra activer l'image tant que le cache n'est pas poussé manuellement.
+
+## Partage d'écran impossible
+
+Si le bouton de partage d'écran n'est pas disponible ou reste grisé, vérifiez les **paramètres de sécurité** de votre système concernant l'application kMeet ou votre navigateur.
+
+=== "macOS"
+    1. **Réglages du système** > **Confidentialité et sécurité** > **Enregistrement de l'écran**.
+    2. Ajoutez votre **navigateur** et/ou l'app **kMeet** si nécessaire.
+    3. Vérifiez les icônes dans la barre d'adresse de votre navigateur.
+
+=== "Autres systèmes"
+    - Vérifiez les autorisations d'enregistrement d'écran dans les paramètres de confidentialité de votre système.
+    - Consultez aussi les icônes de la barre d'adresse du navigateur pour détecter un éventuel souci d'autorisation.
+
+## Impossible de voir ou d'entendre le correspondant
+
+Si la conférence est lancée, que votre correspondant a bien allumé sa webcam et son micro, mais que vous ne le voyez/l'entendez pas, demandez-lui de vérifier la présence d'un **pare-feu** sur sa machine ou son réseau d'entreprise.
+
+Un pare-feu peut autoriser des solutions comme Google Meet ou Microsoft Teams sans pour autant autoriser les flux kMeet.
+
+### Paramètres de pare-feu à autoriser
+
+- **Protocole UDP** : port `443`.
+- Pour le *turn server* (recommandé), ajoutez le port **TCP** `443`.
+- Autorisez les adresses IP suivantes :
+    - `185.125.24.0/24` (TCP)
+    - `185.125.24.0/24` (UDP)
+
+!!! tip "Test alternatif"
+    Vous pouvez également changer de connexion (de Wi-Fi à 4G/5G par exemple) pour vérifier si un pare-feu est à l'origine des désynchronisations.
+
+---
+
+## Sources
+
+- [Résoudre un problème audio sur kMeet — FAQ 2441](https://faq.infomaniak.com/2441)
+- [Résoudre un problème vidéo sur kMeet — FAQ 2452](https://faq.infomaniak.com/2452)
+- [Résoudre un problème sur kMeet — FAQ 289](https://faq.infomaniak.com/289)

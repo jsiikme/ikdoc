@@ -14,7 +14,7 @@ kMeet permet de partager la totalité de votre écran, une application ou l'ongl
 
 Pour démarrer le partage d'écran :
 
-1. Démarrez kMeet puis [créez](reunions.md) ou [rejoignez](reunions.md) une salle de réunion.
+1. Démarrez kMeet puis [créez](reunions/) ou [rejoignez](reunions/) une salle de réunion.
 2. Cliquez sur l'icône **écran fléché** pour partager votre écran.
 3. Lisez l'avertissement éventuel affiché par votre appareil et validez l'autorisation d'accès au contenu de l'écran.
 4. Par défaut, c'est **l'entièreté de votre écran** qui sera partagée, mais vous pouvez choisir **une fenêtre précise** pour restreindre la vision des participants.

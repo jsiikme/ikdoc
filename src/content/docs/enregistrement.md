@@ -4,7 +4,7 @@ title: Enregistrement et diffusion
 
 ## Enregistrer une réunion sur kDrive
 
-kMeet permet d'enregistrer une réunion en vidéo, stockée sur votre [kDrive](integrations.md) Infomaniak.
+kMeet permet d'enregistrer une réunion en vidéo, stockée sur votre [kDrive](integrations/) Infomaniak.
 
 <Aside type="note" title="Caractéristiques de l'enregistrement">
 - L'enregistrement se fait **côté serveur** : aucune charge pour l'ordinateur du participant qui le lance.
@@ -17,7 +17,7 @@ kMeet permet d'enregistrer une réunion en vidéo, stockée sur votre [kDrive](i
 
 - Posséder un **kDrive** (autonome ou au sein d'une offre kSuite / my kSuite, etc.).
 - Être le **modérateur** de la visioconférence.
-- **Ne pas** créer une visioconférence [chiffrée par une clé personnalisée](securite.md) : l'enregistrement n'est pas compatible avec le chiffrement E2E.
+- **Ne pas** créer une visioconférence [chiffrée par une clé personnalisée](securite/) : l'enregistrement n'est pas compatible avec le chiffrement E2E.
 
 ### Procédure
 

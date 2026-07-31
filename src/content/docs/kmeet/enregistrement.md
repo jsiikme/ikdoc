@@ -24,24 +24,24 @@ kMeet permet d'enregistrer une réunion en vidéo, stockée sur votre [kDrive](.
 1. Démarrez kMeet via [kmeet.infomaniak.com](https://kmeet.infomaniak.com) ou depuis une application.
 2. Cliquez sur l'icône **Commencer l'enregistrement**.
 
-    ![Icône « Commencer l'enregistrement » dans la barre d'outils](../../assets/images/kmeet/enregistrement-demarrer.png)
+    ![Icône « Commencer l'enregistrement » dans la barre d'outils](../../../assets/images/kmeet/enregistrement-demarrer.png)
 
 3. Activez l'enregistrement vidéo.
 4. **Connectez-vous** à votre compte Infomaniak.
 5. Sélectionnez un **kDrive** sur lequel enregistrer la visioconférence.
 
-    ![Sélection du kDrive et démarrage de l'enregistrement vidéo](../../assets/images/kmeet/enregistrement-kdrive.png)
+    ![Sélection du kDrive et démarrage de l'enregistrement vidéo](../../../assets/images/kmeet/enregistrement-kdrive.png)
 
 6. Cliquez sur **démarrer** la vidéo.
 7. Pour arrêter, cliquez sur **Arrêter l'enregistrement** puis confirmez.
 
-    ![Bouton « Arrêter l'enregistrement » dans la barre d'outils](../../assets/images/kmeet/enregistrement-stop.png)
+    ![Bouton « Arrêter l'enregistrement » dans la barre d'outils](../../../assets/images/kmeet/enregistrement-stop.png)
 
 8. Choisissez si vous souhaitez vous rendre à l'endroit de l'enregistrement sur kDrive.
 
 L'enregistrement est disponible à la **racine du kDrive** choisi dès la clôture du salon virtuel (dès que tous les participants ont quitté la visioconférence).
 
-![Enregistrement disponible à la racine du kDrive après la réunion](../../assets/images/kmeet/enregistrement-kdrive-resultat.png)
+![Enregistrement disponible à la racine du kDrive après la réunion](../../../assets/images/kmeet/enregistrement-kdrive-resultat.png)
 
 ## Diffuser une réunion en streaming
 
@@ -73,13 +73,13 @@ Le mode Streaming en direct n'est **pas disponible** avec kSuite gratuit, kSuite
 2. Une fois dans la réunion, cliquez sur le menu d'action **○○○** dans la barre d'outils.
 3. Choisissez **Démarrer la diffusion en direct**.
 
-    ![Menu d'action — option « Démarrer la diffusion en direct »](../../assets/images/kmeet/streaming-demarrer.png)
+    ![Menu d'action — option « Démarrer la diffusion en direct »](../../../assets/images/kmeet/streaming-demarrer.png)
 
 4. Cliquez sur **Démarrer**.
 5. Patientez le temps de la création du flux de Streaming Vidéo. **Un symbole affiché sur kMeet ainsi qu'un signal sonore** indiquent le début de la diffusion.
 6. Une fois le lien du stream affiché, cliquez sur l'icône à droite pour **copier l'URL** du flux en direct.
 
-    ![Copie de l'URL du flux en direct à partager avec les spectateurs](../../assets/images/kmeet/streaming-url.png)
+    ![Copie de l'URL du flux en direct à partager avec les spectateurs](../../../assets/images/kmeet/streaming-url.png)
 
 7. Collez l'URL dans un message à l'attention des participants ou spectateurs.
 

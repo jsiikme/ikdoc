@@ -13,12 +13,12 @@ kMeet peut être relié directement à votre agenda Infomaniak : chaque évènem
 1. Accédez à l'app Web **Calendar** via [ksuite.infomaniak.com/calendar](https://ksuite.infomaniak.com/calendar).
 2. Cliquez sur **Créer** puis **Évènement**.
 
-    ![Calendar — menu « Créer » puis « Évènement »](../../assets/images/kmeet/integrations-calendar-creer.png)
+    ![Calendar — menu « Créer » puis « Évènement »](../../../assets/images/kmeet/integrations-calendar-creer.png)
 
 3. Remplissez les champs (titre, date/heure, participants, lieu, description).
 4. Cliquez sur le bouton vert pour **générer automatiquement un lien kMeet** ajouté à l'évènement.
 
-    ![Formulaire de création d'évènement avec lien kMeet généré](../../assets/images/kmeet/integrations-calendar-evenement.png)
+    ![Formulaire de création d'évènement avec lien kMeet généré](../../../assets/images/kmeet/integrations-calendar-evenement.png)
 
 5. Cliquez sur **ENREGISTRER**.
 6. Répondez par **OUI** à la proposition d'envoyer des notifications aux invités.
@@ -36,7 +36,7 @@ kMeet est intégré à **kChat**, le service de messagerie instantanée d'Infoma
 1. Ouvrez kChat via [ksuite.infomaniak.com/kchat](https://ksuite.infomaniak.com/kchat) ou lancez l'app kChat.
 2. Depuis n'importe quelle conversation (directe ou canal), cliquez sur le bouton **Appeler**.
 
-    ![Bouton « Appeler » dans une conversation kChat](../../assets/images/kmeet/integrations-kchat-appel.png)
+    ![Bouton « Appeler » dans une conversation kChat](../../../assets/images/kmeet/integrations-kchat-appel.png)
 
 3. Appelez directement un utilisateur sur une discussion directe, ou déclenchez un appel à tous les membres d'un canal.
 

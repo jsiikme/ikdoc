@@ -22,7 +22,7 @@ kMeet est la solution de visioconférence d'Infomaniak : **sécurisée, illimit�
 - Choisissez votre propre **clé de chiffrement**. Par défaut, tous les échanges sont automatiquement chiffrés (AES-256) par les serveurs Infomaniak.
 - **Salle d'attente** pour contrôler qui peut accéder à vos réunions.
 
-Voir [Sécurité et modération](../securite/) pour les procédures détaillées.
+Voir [Sécurité et modération](securite/) pour les procédures détaillées.
 
 ## Fonctionnalités clés
 
@@ -33,7 +33,7 @@ Voir [Sécurité et modération](../securite/) pour les procédures détaillées
 | Dessin collaboratif | Tableau blanc partagé et annotation sur partage d'écran. |
 | Contrôle à distance | Prise de contrôle d'un appareil distant lors d'un partage d'écran. |
 | Salles annexes | Division d'une réunion en sous-groupes (breakout rooms). |
-| Enregistrement | Enregistrement vidéo côté serveur, stocké sur [kDrive](../integrations/). |
+| Enregistrement | Enregistrement vidéo côté serveur, stocké sur [kDrive](integrations/). |
 | Streaming en direct | Diffusion publique d'une réunion via un flux séparé accessible par URL. |
 | Transcription | Sous-titres automatiques en temps réel. |
 | Arrière-plans virtuels | Personnalisation de l'arrière-plan de la webcam. |
@@ -44,7 +44,7 @@ Avec l'intégration **Calendar**, anticipez vos réunions, invitez vos collabora
 
 ![Tableau de bord kMeet avec agenda intégré](../../../assets/images/kmeet/presentation-dashboard.png)
 
-Voir [Réunions](../reunions/) et [Intégrations](../integrations/) pour les procédures détaillées.
+Voir [Réunions](reunions/) et [Intégrations](integrations/) pour les procédures détaillées.
 
 ## Son et vidéo haute définition sur tous vos appareils
 
@@ -54,7 +54,7 @@ Voir [Réunions](../reunions/) et [Intégrations](../integrations/) pour les pro
 
 ![Son et vidéo haute définition sur kMeet](../../../assets/images/kmeet/presentation-hd.webp)
 
-Voir [Plateformes](../plateformes/) pour le tableau de compatibilité détaillé.
+Voir [Plateformes](plateformes/) pour le tableau de compatibilité détaillé.
 
 ## Éthique et souveraineté
 

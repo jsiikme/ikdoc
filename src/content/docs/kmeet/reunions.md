@@ -7,7 +7,7 @@ title: Réunions
 1. Démarrez kMeet via [kmeet.infomaniak.com](https://kmeet.infomaniak.com) ou depuis l'application.
 2. Cliquez sur **Démarrer une nouvelle réunion**.
 
-    ![Page d'accueil de kMeet — bouton « Démarrer une nouvelle réunion »](../../assets/images/kmeet/demarrage-accueil.png)
+    ![Page d'accueil de kMeet — bouton « Démarrer une nouvelle réunion »](../../../assets/images/kmeet/demarrage-accueil.png)
 
 3. Indiquez un **nom** pour votre salle de réunion.
 4. Autorisez l'accès à votre webcam et microphone.
@@ -16,7 +16,7 @@ title: Réunions
 7. Cliquez sur **Rejoindre la réunion**.
 8. **Partagez le lien du salon** pour inviter les participants à vous rejoindre.
 
-    ![Partage du lien de la réunion aux participants](../../assets/images/kmeet/demarrage-partage-lien.png)
+    ![Partage du lien de la réunion aux participants](../../../assets/images/kmeet/demarrage-partage-lien.png)
 
 :::note[Pas de limite de participants]
 Il n'y a pas de limite de participants avec les offres kSuite payantes. Vous pouvez créer autant de salles de réunions que désiré. Pour qu'une salle soit active, il faut qu'au moins un participant s'y trouve.
@@ -29,7 +29,7 @@ Pour rejoindre un kMeet déjà démarré par un autre participant :
 1. Démarrez kMeet via [kmeet.infomaniak.com](https://kmeet.infomaniak.com) ou depuis l'application.
 2. Cliquez sur **Rejoindre une réunion**.
 
-    ![Écran « Rejoindre une réunion » — saisie du code de la réunion](../../assets/images/kmeet/demarrage-rejoindre.png)
+    ![Écran « Rejoindre une réunion » — saisie du code de la réunion](../../../assets/images/kmeet/demarrage-rejoindre.png)
 
 3. Indiquez le **code** de la réunion (par ex. `001-0002-003`) ou son **lien** (que vous pouvez ouvrir directement).
 4. Cliquez sur **OK**.
@@ -85,15 +85,15 @@ Pour ajouter une ou plusieurs salles annexes :
 2. Une fois les participants dans la réunion, cliquez sur l'icône **multi-utilisateurs** dans la barre d'outils.
 3. Cliquez sur le bouton pour **ajouter une salle annexe**.
 
-    ![Ajout d'une salle annexe depuis le panneau des participants](../../assets/images/kmeet/reunions-salle-annexe.png)
+    ![Ajout d'une salle annexe depuis le panneau des participants](../../../assets/images/kmeet/reunions-salle-annexe.png)
 
 4. Les participants peuvent alors **rejoindre la chambre** créée ou en sortir (en affichant le menu par le même bouton).
 
-    ![Participants rejoignant ou quittant une salle annexe](../../assets/images/kmeet/reunions-breakout-rejoindre.png)
+    ![Participants rejoignant ou quittant une salle annexe](../../../assets/images/kmeet/reunions-breakout-rejoindre.png)
 
 5. Le modérateur peut également **forcer** un participant à rejoindre une chambre annexe via le menu d'action à droite dans la liste.
 
-    ![Modérateur forçant un participant dans une salle annexe via le menu d'action](../../assets/images/kmeet/reunions-breakout-forcer.png)
+    ![Modérateur forçant un participant dans une salle annexe via le menu d'action](../../../assets/images/kmeet/reunions-breakout-forcer.png)
 
 ---
 

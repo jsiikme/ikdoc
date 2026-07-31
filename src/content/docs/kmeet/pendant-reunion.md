@@ -17,12 +17,12 @@ Pour démarrer le partage d'écran :
 1. Démarrez kMeet puis [créez](../reunions/) ou [rejoignez](../reunions/) une salle de réunion.
 2. Cliquez sur l'icône **écran fléché** pour partager votre écran.
 
-    ![Icône de partage d'écran dans la barre d'outils de kMeet](../../assets/images/kmeet/pendant-partage-ecran.png)
+    ![Icône de partage d'écran dans la barre d'outils de kMeet](../../../assets/images/kmeet/pendant-partage-ecran.png)
 
 3. Lisez l'avertissement éventuel affiché par votre appareil et validez l'autorisation d'accès au contenu de l'écran.
 4. Par défaut, c'est **l'entièreté de votre écran** qui sera partagée, mais vous pouvez choisir **une fenêtre précise** pour restreindre la vision des participants.
 
-    ![Choix entre partage de l'écran complet ou d'une fenêtre précise](../../assets/images/kmeet/pendant-choix-partage.png)
+    ![Choix entre partage de l'écran complet ou d'une fenêtre précise](../../../assets/images/kmeet/pendant-choix-partage.png)
 
     :::caution[Pour annoter ou prendre le contrôle]
     Si le but du partage est d'ensuite permettre aux participants d'**interagir en dessinant** ou de **prendre le contrôle** de l'appareil, il faut choisir le partage de l'écran **complet** et non une fenêtre.
@@ -47,7 +47,7 @@ Pour ouvrir le chat :
 1. Démarrez l'app kMeet puis créez ou rejoignez une salle.
 2. Cliquez sur l'icône **bulle de message** dans la barre d'outils pour ouvrir/fermer le chat depuis un volet latéral à gauche.
 
-    ![Volet latéral du chat et des sondages dans kMeet](../../assets/images/kmeet/pendant-chat.png)
+    ![Volet latéral du chat et des sondages dans kMeet](../../../assets/images/kmeet/pendant-chat.png)
 
 ### Réagir en live
 
@@ -66,7 +66,7 @@ Il est possible d'afficher une surface blanche permettant à l'ensemble des part
 3. Cliquez sur **Afficher le tableau blanc**.
 4. La surface de dessin s'affiche chez tous les participants et chacun peut y inscrire ce qu'il souhaite.
 
-    ![Tableau blanc collaboratif avec curseurs des participants visibles](../../assets/images/kmeet/pendant-tableau-blanc.png)
+    ![Tableau blanc collaboratif avec curseurs des participants visibles](../../../assets/images/kmeet/pendant-tableau-blanc.png)
 
 5. Le **curseur de chaque participant** est affiché.
 
@@ -102,7 +102,7 @@ Pour que l'utilisateur A prenne le contrôle de l'ordinateur de l'utilisateur B 
 2. L'utilisateur A clique sur le menu d'action **○○○** en haut à droite de la miniature de l'utilisateur B.
 3. L'utilisateur A clique sur **Démarrer le contrôle à distance** (même chemin pour stopper).
 
-    ![Menu d'action sur la miniature d'un participant — option « Démarrer le contrôle à distance »](../../assets/images/kmeet/pendant-controle-distance.png)
+    ![Menu d'action sur la miniature d'un participant — option « Démarrer le contrôle à distance »](../../../assets/images/kmeet/pendant-controle-distance.png)
 
 4. L'utilisateur B reçoit une notification dans l'application pour **valider et accepter** la demande de contrôle.
 

@@ -28,7 +28,7 @@ Pour démarrer une communication privée entre plusieurs personnes sur Internet,
 1. Entrez [kmeet.infomaniak.com](https://kmeet.infomaniak.com) sur un navigateur (Chrome, Safari, etc.).
 2. Cliquez sur **Démarrer une nouvelle réunion**.
 
-    ![Page d'accueil de kMeet — bouton « Démarrer une nouvelle réunion »](../../assets/images/kmeet/migration-accueil.png)
+    ![Page d'accueil de kMeet — bouton « Démarrer une nouvelle réunion »](../../../assets/images/kmeet/migration-accueil.png)
 
 3. Entrez un **nom** pour la réunion (indique aux participants le sujet de la discussion).
 4. Cliquez sur **Continuer**.
@@ -37,11 +37,11 @@ Pour démarrer une communication privée entre plusieurs personnes sur Internet,
 7. Activez ou désactivez les moyens de communication si nécessaire.
 8. Cliquez sur le bouton pour **rejoindre la salle de réunion**.
 
-    ![Salle de réunion virtuelle — premier participant dans le salon](../../assets/images/kmeet/migration-rejoindre.png)
+    ![Salle de réunion virtuelle — premier participant dans le salon](../../../assets/images/kmeet/migration-rejoindre.png)
 
 9. Le salon est créé : **copiez les informations** de la session et **envoyez-les** aux correspondants (ils n'auront qu'à ouvrir le lien).
 
-    ![Fenêtre d'information avec lien partageable de la réunion](../../assets/images/kmeet/migration-partage-lien.png)
+    ![Fenêtre d'information avec lien partageable de la réunion](../../../assets/images/kmeet/migration-partage-lien.png)
 
 10. Fermez la fenêtre d'information pour converser tous ensemble.
 

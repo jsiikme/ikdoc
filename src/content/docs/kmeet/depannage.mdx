@@ -2,7 +2,7 @@
 title: Dépannage
 ---
 
-import { Tabs, Tab } from '@astrojs/starlight/components';
+import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 Ce guide aide à résoudre les problèmes les plus courants avec kMeet.
 
@@ -36,23 +36,23 @@ Un problème audio peut être de deux types : soit les autres ne vous entendent 
 ### 4. Vérifier les autorisations système
 
 <Tabs>
-  <Tab title="macOS">
+  <TabItem label="macOS">
     1. Menu Pomme > **Réglages Système** > **Confidentialité et sécurité**.
     2. Cliquez sur **Microphone**.
     3. Vérifiez que votre navigateur (Chrome, Firefox) ou l'app kMeet est bien coché.
-  </Tab>
-  <Tab title="Windows">
+  </TabItem>
+  <TabItem label="Windows">
     1. **Paramètres** > **Confidentialité et sécurité** > **Microphone**.
     2. Vérifiez que **« Accès au microphone »** est activé.
     3. Vérifiez que **« Autoriser les applications de bureau à accéder à votre microphone »** est activé pour kMeet ou votre navigateur.
-  </Tab>
-  <Tab title="iOS">
+  </TabItem>
+  <TabItem label="iOS">
     - **Réglages** > kMeet > vérifiez que **Micro** est activé.
     - Vérifiez aussi dans **Réglages** > **Confidentialité** > **Micro**.
-  </Tab>
-  <Tab title="Android">
+  </TabItem>
+  <TabItem label="Android">
     - **Paramètres** > **Applications** > kMeet > **Autorisations** > Micro > **Autoriser si l'appli est utilisée**.
-  </Tab>
+  </TabItem>
 </Tabs>
 
 ### 5. Désactiver les extensions bloquantes
@@ -102,15 +102,15 @@ Ce dispositif étant mécanique, aucun réglage logiciel ne pourra activer l'ima
 Si le bouton de partage d'écran n'est pas disponible ou reste grisé, vérifiez les **paramètres de sécurité** de votre système concernant l'application kMeet ou votre navigateur.
 
 <Tabs>
-  <Tab title="macOS">
+  <TabItem label="macOS">
     1. **Réglages du système** > **Confidentialité et sécurité** > **Enregistrement de l'écran**.
     2. Ajoutez votre **navigateur** et/ou l'app **kMeet** si nécessaire.
     3. Vérifiez les icônes dans la barre d'adresse de votre navigateur.
-  </Tab>
-  <Tab title="Autres systèmes">
+  </TabItem>
+  <TabItem label="Autres systèmes">
     - Vérifiez les autorisations d'enregistrement d'écran dans les paramètres de confidentialité de votre système.
     - Consultez aussi les icônes de la barre d'adresse du navigateur pour détecter un éventuel souci d'autorisation.
-  </Tab>
+  </TabItem>
 </Tabs>
 
 ## Impossible de voir ou d'entendre le correspondant

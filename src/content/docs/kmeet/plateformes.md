@@ -23,10 +23,11 @@ Des applications gratuites sont disponibles sur :
 
 Vous pouvez créer ou rejoindre des réunions directement depuis votre smartphone.
 
-<Aside type="note">**Limitation iOS**
-Le **partage d'écran n'est pas encore possible** avec l'app mobile iOS. Il est disponible sur l'app mobile Android et sur l'app Web/desktop.</Aside>
+:::note[Limitation iOS]
+Le **partage d'écran n'est pas encore possible** avec l'app mobile iOS. Il est disponible sur l'app mobile Android et sur l'app Web/desktop.
+:::
 
-## Version Web
+## Version web
 
 Accessible sans installation via [kmeet.infomaniak.com](https://kmeet.infomaniak.com), la version Web fonctionne dans un navigateur.
 
@@ -41,8 +42,9 @@ Accessible sans installation via [kmeet.infomaniak.com](https://kmeet.infomaniak
 | Brave | ✅ |
 | Safari | ✅ |
 
-<Aside type="tip">**Chiffrement E2E et navigateurs**
-Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](securite/).</Aside>
+:::tip[Chiffrement E2E et navigateurs]
+Le chiffrement de bout en bout nécessite un navigateur basé sur l'architecture **Chromium** (Chrome, Edge, Opera, Brave, etc.) ou l'app desktop. Il n'est pas disponible sur mobile pour le moment. Voir [Sécurité](../securite/).
+:::
 
 ## Tableau de compatibilité des fonctionnalités
 

@@ -2,8 +2,6 @@
 title: Réunions
 ---
 
-# Créer et rejoindre une réunion
-
 ## Créer une réunion
 
 1. Démarrez kMeet via [kmeet.infomaniak.com](https://kmeet.infomaniak.com) ou depuis l'application.
@@ -11,13 +9,13 @@ title: Réunions
 3. Indiquez un **nom** pour votre salle de réunion.
 4. Autorisez l'accès à votre webcam et microphone.
 5. Renseignez un **pseudonyme** ou votre nom et prénom.
-6. Le cas échéant, activez le [contrôle des participants](securite/), un [mot de passe](securite/) ou une [clé de chiffrement](securite/).
+6. Le cas échéant, activez le [contrôle des participants](../securite/), un [mot de passe](../securite/) ou une [clé de chiffrement](../securite/).
 7. Cliquez sur **Rejoindre la réunion**.
 8. **Partagez le lien du salon** pour inviter les participants à vous rejoindre.
 
-<Aside type="note" title="Pas de limite de participants">
+:::note[Pas de limite de participants]
 Il n'y a pas de limite de participants avec les offres kSuite payantes. Vous pouvez créer autant de salles de réunions que désiré. Pour qu'une salle soit active, il faut qu'au moins un participant s'y trouve.
-</Aside>
+:::
 
 ## Rejoindre une réunion
 
@@ -27,15 +25,15 @@ Pour rejoindre un kMeet déjà démarré par un autre participant :
 2. Cliquez sur **Rejoindre une réunion**.
 3. Indiquez le **code** de la réunion (par ex. `001-0002-003`) ou son **lien** (que vous pouvez ouvrir directement).
 4. Cliquez sur **OK**.
-5. Autorisez si nécessaire l'accès à votre [webcam](depannage/) et [microphone](depannage/).
+5. Autorisez si nécessaire l'accès à votre [webcam](../depannage/) et [microphone](../depannage/).
 6. Renseignez un pseudonyme ou votre nom et prénom.
 7. Ajustez les réglages selon vos préférences (désactiver la caméra, par exemple).
 8. Cliquez sur le bouton bleu pour **rejoindre la réunion**.
 9. Saisissez si nécessaire le **mot de passe** et/ou la **clé de chiffrement** communiqués par l'organisateur.
 
-<Aside type="tip" title="Obtenir le lien de la réunion">
+:::tip[Obtenir le lien de la réunion]
 Le créateur de la réunion peut obtenir et partager le lien en cliquant sur l'icône utilisateur avec un signe plus (`+`).
-</Aside>
+:::
 
 ## Planifier une réunion à l'avance
 
@@ -53,25 +51,25 @@ Plutôt que de créer une réunion immédiate, vous pouvez planifier un rendez-v
     - Démarrer micros fermés
     - Démarrer avec la vidéo de l'administrateur allumée
     - Démarrer avec la vidéo de chaque participant allumée
-    - [Contrôle des participants](securite/) (modération)
-    - [Mot de passe](securite/)
-    - [Clé de chiffrement personnalisée](securite/)
+    - [Contrôle des participants](../securite/) (modération)
+    - [Mot de passe](../securite/)
+    - [Clé de chiffrement personnalisée](../securite/)
 
 9. Cliquez sur **sauvegarder** l'évènement planifié.
 10. L'évènement est ajouté au calendrier. Vous pouvez aussi l'ajouter dans d'autres types de calendrier.
 11. Les **invitations sont envoyées automatiquement** aux participants par mail.
 
-<Aside type="tip" title="Alternative via Calendar">
-Vous pouvez également créer un évènement dans [Calendar Infomaniak](integrations/) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](integrations/).
-</Aside>
+:::tip[Alternative via Calendar]
+Vous pouvez également créer un évènement dans [Calendar Infomaniak](../integrations/) et générer automatiquement un lien kMeet depuis l'évènement. Voir [Intégrations](../integrations/).
+:::
 
 ## Créer une salle annexe (breakout room)
 
 Les salles annexes permettent de **diviser une réunion principale en plusieurs discussions simultanées** dans des espaces virtuels distincts.
 
-<Aside type="note" title="Prérequis">
+:::note[Prérequis]
 Seul un **modérateur** peut créer ces salles et gérer les participants entre la salle principale et les sous-groupes.
-</Aside>
+:::
 
 Pour ajouter une ou plusieurs salles annexes :
 

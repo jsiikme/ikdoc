@@ -6,12 +6,6 @@ kMeet est la solution de visioconférence d'Infomaniak : **sécurisée, illimit�
 
 ![Interface kMeet sur ordinateur portable](../../../assets/images/kmeet/presentation-header.webp)
 
-## Travaillez à distance comme si vous étiez au bureau
-
-Les fonctionnalités de kMeet s'enrichissent régulièrement pour faciliter vos réunions à distance. kMeet permet de partager la totalité de votre écran, une application ou l'onglet de votre choix, et d'**annoter** directement sur le partage d'écran grâce aux outils de dessin intégrés.
-
-![Dessin et annotation sur partage d'écran dans kMeet](../../../assets/images/kmeet/presentation-dessin.png)
-
 ## Atouts principaux
 
 - **Appels audio et vidéo illimités** : aucune limite de durée ni de nombre de réunions.

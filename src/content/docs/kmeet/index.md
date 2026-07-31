@@ -52,16 +52,6 @@ Avec l'intégration **Calendar**, anticipez vos réunions, invitez vos collabora
 
 Voir [Réunions](../reunions/) et [Intégrations](../integrations/) pour les procédures détaillées.
 
-## Arrière-plans virtuels
-
-Changez d'environnement en un clic. Choisissez parmi des arrière-plans par défaut ou importez les vôtres. Cette fonctionnalité permet de masquer votre arrière-plan réel pendant la réunion.
-
-![Arrière-plan virtuel — montagne](../../../assets/images/kmeet/presentation-bg-mountain.jpg)
-
-![Arrière-plan virtuel — espace](../../../assets/images/kmeet/presentation-bg-space.jpg)
-
-![Arrière-plan virtuel — vaisseau spatial](../../../assets/images/kmeet/presentation-bg-vaisseau.jpg)
-
 ## Son et vidéo haute définition sur tous vos appareils
 
 - Application kMeet pour [Windows](https://download.storage.infomaniak.com/meet/kmeet-desktop-setup-2.0.1-win.exe), [macOS](https://download.storage.infomaniak.com/meet/kmeet-desktop-2.0.1-mac.dmg) et [Linux](https://download.storage.infomaniak.com/meet/kmeet-desktop-2.0.1-linux-x86_64.AppImage).

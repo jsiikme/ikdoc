@@ -75,8 +75,6 @@ kMeet s'inscrit dans la démarche d'Infomaniak en faveur d'un cloud éthique :
 
 Avec l'option **Custom Brand**, vous pouvez personnaliser l'image de marque de kMeet : votre nom de domaine, votre logo, vos couleurs. Lors du partage de documents ou de vidéoconférences, vos clients restent dans votre univers de marque.
 
-![Personnalisation de kMeet avec Custom Brand](../../../assets/images/kmeet/presentation-custom-brand.webp)
-
 kMeet est gratuit et illimité, mais vous n'êtes pas le produit. Pour soutenir un web respectueux de la vie privée, parlez de kMeet à vos contacts et personnalisez vos outils avec [Custom Brand](https://www.infomaniak.com/fr/ksuite/custom-brand).
 
 ---

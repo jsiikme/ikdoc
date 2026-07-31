@@ -11,12 +11,12 @@ Malgré son succès initial, Skype a vu son utilisation diminuer face à l'émer
 - Appels audio et vidéo **illimités**
 - **Accès sans inscription** pour les participants
 - Compatibilité **Web, mobile et bureau**
-- [Chat intégré](pendant-reunion/) et réactions
-- [Partage d'écran](pendant-reunion/) avec outils de dessin et prise de contrôle
-- [Salles annexes](reunions/) (breakout rooms)
-- Intégration avec [l'agenda](integrations/), [kDrive](integrations/) et [kChat](integrations/)
+- [Chat intégré](../pendant-reunion/) et réactions
+- [Partage d'écran](../pendant-reunion/) avec outils de dessin et prise de contrôle
+- [Salles annexes](../reunions/) (breakout rooms)
+- Intégration avec [l'agenda](../integrations/), [kDrive](../integrations/) et [kChat](../integrations/)
 - **Respect de la vie privée** (aucune publicité, hébergement en Suisse)
-- [Chiffrement](securite/) AES-256
+- [Chiffrement](../securite/) AES-256
 - **Écoresponsable** (énergie renouvelable, compensation CO₂)
 
 ## Trois approches pour remplacer Skype
@@ -36,7 +36,7 @@ Pour démarrer une communication privée entre plusieurs personnes sur Internet,
 9. Le salon est créé : **copiez les informations** de la session et **envoyez-les** aux correspondants (ils n'auront qu'à ouvrir le lien).
 10. Fermez la fenêtre d'information pour converser tous ensemble.
 
-Pour découvrir toutes les possibilités de kMeet, consultez le [Démarrage](demarrage/).
+Pour découvrir toutes les possibilités de kMeet, consultez le [Démarrage](../demarrage/).
 
 ### 2. Planification et invitations avec my kSuite
 
@@ -47,7 +47,7 @@ Pour travailler efficacement, kMeet peut être **relié directement à votre age
 Pour mettre en place cette solution :
 
 1. [Inscrivez-vous gratuitement à **my kSuite**](https://www.infomaniak.com/fr/ksuite/myksuite) pour disposer d'une adresse mail (par ex. `anna.alpha@ikmail.com`) et d'un accès aux services Infomaniak.
-2. Connectez-vous au calendrier [ksuite.infomaniak.com/calendar](https://ksuite.infomaniak.com/calendar) puis [créez un évènement](integrations/) le jour de votre choix.
+2. Connectez-vous au calendrier [ksuite.infomaniak.com/calendar](https://ksuite.infomaniak.com/calendar) puis [créez un évènement](../integrations/) le jour de votre choix.
 3. Ajoutez des **participants** à l'évènement, même s'ils ne sont pas clients Infomaniak.
 4. Cliquez sur le bouton vert pour **générer automatiquement un lien kMeet**.
 5. Cliquez sur **sauvegarder** l'évènement.
@@ -66,7 +66,7 @@ Pour engager une conversation à tout moment avec un contact préalablement enre
     - Navigateur si l'URL kChat y est ouverte, ou ordinateur / appareil mobile si l'app kChat y est installée.
 5. Libre à votre correspondant de répondre. L'appel se fait avec la technologie kMeet **au sein de kChat** ou sur l'app **kMeet** si celle-ci est installée.
 
-Pour en savoir plus sur les appels en visioconférence sur kChat, consultez [Intégrations](integrations/).
+Pour en savoir plus sur les appels en visioconférence sur kChat, consultez [Intégrations](../integrations/).
 
 ---
 

@@ -6,17 +6,17 @@ Documentation synthétique et originale pour la solution de visioconférence **k
 
 | Page | Sujet |
 |------|-------|
-| [Présentation](https://jsiikme.github.io/ikdoc/) | Vue d'ensemble de kMeet, atouts, éthique |
-| [Démarrage](https://jsiikme.github.io/ikdoc/demarrage/) | Premier lancement, applications, autorisations |
-| [Réunions](https://jsiikme.github.io/ikdoc/reunions/) | Créer, rejoindre, planifier, salles annexes |
-| [Pendant la réunion](https://jsiikme.github.io/ikdoc/pendant-reunion/) | Partage d'écran, chat, dessin, contrôle à distance |
-| [Enregistrement et diffusion](https://jsiikme.github.io/ikdoc/enregistrement/) | kDrive, streaming, transcription |
-| [Sécurité et modération](https://jsiikme.github.io/ikdoc/securite/) | Mot de passe, chiffrement E2E, salle d'attente |
-| [Intégrations](https://jsiikme.github.io/ikdoc/integrations/) | Calendar, kChat, kDrive, Custom Brand |
-| [Plateformes](https://jsiikme.github.io/ikdoc/plateformes/) | Desktop, mobile, web, navigateurs compatibles |
-| [Dépannage](https://jsiikme.github.io/ikdoc/depannage/) | Audio, vidéo, pare-feu, permissions |
-| [Migration depuis Skype](https://jsiikme.github.io/ikdoc/migration-skype/) | Trois approches pour remplacer Skype |
-| [FAQ](https://jsiikme.github.io/ikdoc/faq/) | Questions fréquentes condensées |
+| [Présentation](https://jsiikme.github.io/ikdoc/kmeet/) | Vue d'ensemble de kMeet, atouts, éthique |
+| [Démarrage](https://jsiikme.github.io/ikdoc/kmeet/demarrage/) | Premier lancement, applications, autorisations |
+| [Réunions](https://jsiikme.github.io/ikdoc/kmeet/reunions/) | Créer, rejoindre, planifier, salles annexes |
+| [Pendant la réunion](https://jsiikme.github.io/ikdoc/kmeet/pendant-reunion/) | Partage d'écran, chat, dessin, contrôle à distance |
+| [Enregistrement et diffusion](https://jsiikme.github.io/ikdoc/kmeet/enregistrement/) | kDrive, streaming, transcription |
+| [Sécurité et modération](https://jsiikme.github.io/ikdoc/kmeet/securite/) | Mot de passe, chiffrement E2E, salle d'attente |
+| [Intégrations](https://jsiikme.github.io/ikdoc/kmeet/integrations/) | Calendar, kChat, kDrive, Custom Brand |
+| [Plateformes](https://jsiikme.github.io/ikdoc/kmeet/plateformes/) | Desktop, mobile, web, navigateurs compatibles |
+| [Dépannage](https://jsiikme.github.io/ikdoc/kmeet/depannage/) | Audio, vidéo, pare-feu, permissions |
+| [Migration depuis Skype](https://jsiikme.github.io/ikdoc/kmeet/migration-skype/) | Trois approches pour remplacer Skype |
+| [FAQ](https://jsiikme.github.io/ikdoc/kmeet/faq/) | Questions fréquentes condensées |
 
 ## Sources
 

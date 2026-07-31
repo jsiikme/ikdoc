@@ -2,11 +2,13 @@
 title: Dépannage
 ---
 
+import { Tabs, Tab } from '@astrojs/starlight/components';
+
 Ce guide aide à résoudre les problèmes les plus courants avec kMeet.
 
-<Aside type="tip" title="App desktop ou app Web ?">
+:::tip[App desktop ou app Web ?]
 En cas de problème avec l'app Web, essayez l'app desktop et vice-versa. L'app desktop offre généralement une meilleure stabilité.
-</Aside>
+:::
 
 ## Problèmes audio
 
@@ -91,9 +93,9 @@ Si votre image reste noire alors que la caméra est activée, il se peut que l'o
 - Si vous voyez un point **rouge** ou une pastille opaque, le cache est fermé.
 - Faites **glisser le curseur latéralement** pour libérer l'image.
 
-<Aside type="note" title="Dispositif mécanique">
+:::note[Dispositif mécanique]
 Ce dispositif étant mécanique, aucun réglage logiciel ne pourra activer l'image tant que le cache n'est pas poussé manuellement.
-</Aside>
+:::
 
 ## Partage d'écran impossible
 
@@ -125,9 +127,9 @@ Un pare-feu peut autoriser des solutions comme Google Meet ou Microsoft Teams sa
     - `185.125.24.0/24` (TCP)
     - `185.125.24.0/24` (UDP)
 
-<Aside type="tip" title="Test alternatif">
+:::tip[Test alternatif]
 Vous pouvez également changer de connexion (de Wi-Fi à 4G/5G par exemple) pour vérifier si un pare-feu est à l'origine des désynchronisations.
-</Aside>
+:::
 
 ---
 

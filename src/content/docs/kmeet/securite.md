@@ -15,17 +15,17 @@ Vous pouvez protéger l'accès à une réunion par un mot de passe, à transmett
 7. Spécifiez le nom que vous voulez utiliser comme participant.
 8. Partagez le **lien ou le code de la réunion** ainsi que le **mot de passe** à vos participants.
 
-<Aside type="tip" title="Retrouver le mot de passe">
+:::tip[Retrouver le mot de passe]
 Vous pouvez réafficher le mot de passe si nécessaire via le bouton dédié à l'invitation des participants.
-</Aside>
+:::
 
 ## Chiffrement de bout en bout (E2E)
 
 Au-delà du chiffrement AES-256 appliqué par défaut par les serveurs Infomaniak, vous pouvez définir **votre propre clé de chiffrement** pour un chiffrement de bout en bout.
 
-<Aside type="caution" title="Prérequis technique">
+:::caution[Prérequis technique]
 Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les navigateurs à jour basés sur l'architecture **Chromium** (Google Chrome, Microsoft Edge, Opera, Brave, etc.).
-</Aside>
+:::
 
 ### Procédure
 
@@ -33,10 +33,10 @@ Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les naviga
 2. Activez le bouton à bascule pour **chiffrer de bout en bout**.
 3. Lors du démarrage de la visioconférence, **un message audio** se fait entendre pour annoncer le chiffrement de bout en bout.
 
-<Aside type="note" title="Limites du chiffrement E2E">
-- L'[enregistrement sur kDrive](enregistrement/) **n'est pas compatible** avec le chiffrement E2E.
+:::note[Limites du chiffrement E2E]
+- L'[enregistrement sur kDrive](../enregistrement/) **n'est pas compatible** avec le chiffrement E2E.
 - Le chiffrement E2E n'est **pas disponible sur mobile** pour le moment.
-</Aside>
+:::
 
 ## Modération des participants
 
@@ -44,7 +44,7 @@ Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les naviga
 
 - Pour être **modérateur**, il faut soit être **le premier connecté** soit être **désigné par la suite**.
 - En général, la personne qui génère le kMeet est le modérateur.
-- Si un meeting est créé depuis le [calendrier Infomaniak](integrations/), le lien kMeet est accessible à tous les participants de l'évènement. Il est donc recommandé à l'initiateur de **se connecter un peu avant** les participants afin de configurer sa réunion (salle d'attente, mot de passe, etc.).
+- Si un meeting est créé depuis le [calendrier Infomaniak](../integrations/), le lien kMeet est accessible à tous les participants de l'évènement. Il est donc recommandé à l'initiateur de **se connecter un peu avant** les participants afin de configurer sa réunion (salle d'attente, mot de passe, etc.).
 
 ### Activer le contrôle des participants
 
@@ -76,7 +76,7 @@ Accédez à **Paramètres** > **Modération** via le menu **○○○** :
 | Micros coupés au démarrage | Tous les participants démarrent avec le micro coupé. |
 | Caméras coupées au démarrage | Tous les participants démarrent avec la caméra coupée. |
 | Affichage identique au modérateur | L'interface des participants suit celle du modérateur (participant affiché en grand, etc.). Modifiable par les utilisateurs, mais le modérateur peut forcer la mise à jour à tout moment. |
-| Enregistrement selon affichage modérateur | L'[enregistrement](enregistrement/) utilise l'affichage identique à celui du modérateur. |
+| Enregistrement selon affichage modérateur | L'[enregistrement](../enregistrement/) utilise l'affichage identique à celui du modérateur. |
 | Réactions sans son | Les émojis de réaction ne provoquent aucun son. |
 
 ---

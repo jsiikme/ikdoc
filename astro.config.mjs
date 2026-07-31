@@ -13,6 +13,7 @@ export default defineConfig({
         { icon: 'github', label: 'GitHub', href: 'https://github.com/jsiikme/ikdoc' },
       ],
       sidebar: [
+        { label: 'Accueil', link: '/' },
         {
           label: 'kMeet',
           items: [

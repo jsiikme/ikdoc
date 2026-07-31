@@ -1,0 +1,75 @@
+---
+title: Démarrage
+---
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+Ce guide explique comment installer kChat, accéder à l'application et configurer les premières autorisations.
+
+## Obtenir kChat
+
+kChat est proposé avec **kSuite**. Une fois kSuite mis en place au sein de votre Organisation, plusieurs points d'accès sont disponibles :
+
+| Plateforme | Accès |
+|---|---|
+| Web | [ksuite.infomaniak.com/kchat](https://ksuite.infomaniak.com/kchat) |
+| macOS | Application de bureau |
+| Windows | Application de bureau |
+| Linux | Application de bureau (.AppImage) |
+| iOS (iPhone / iPad) | App Store |
+| Android | Google Play |
+
+Téléchargement des applications : [infomaniak.com/fr/applications/telecharger-kchat](https://www.infomaniak.com/fr/applications/telecharger-kchat).
+
+:::tip
+Le contenu des discussions, photos et vidéos est stocké en ligne sur les serveurs sécurisés d'Infomaniak. La taille de stockage disponible est celle de la kSuite.
+:::
+
+## Installer kChat
+
+<Tabs>
+  <TabItem label="macOS">
+    kChat demande l'accès au Trousseau macOS pour « Chromium Safe Storage », utilisé pour stocker votre jeton d'accès (token). Cette demande est normale et nécessaire ; aucune donnée sensible n'est envoyée à l'extérieur.
+  </TabItem>
+  <TabItem label="Windows">
+    Téléchargez l'installateur depuis la page de téléchargement, puis exécutez-le. Aucune configuration particulière n'est requise.
+  </TabItem>
+  <TabItem label="Linux">
+    kChat est distribué au format AppImage. Si l'application ne se lance pas, exécutez-la depuis un terminal avec :
+
+    ```
+    ./kchat.AppImage --no-sandbox
+    ```
+
+    Vous pouvez également créer un lanceur incluant ce paramètre pour éviter de le saisir à chaque utilisation.
+  </TabItem>
+</Tabs>
+
+## Accéder à kChat
+
+1. Rendez-vous sur [ksuite.infomaniak.com/kchat](https://ksuite.infomaniak.com/kchat) ou ouvrez l'application installée.
+2. Connectez-vous avec votre compte Infomaniak.
+3. L'interface kChat s'affiche avec la liste de vos canaux et messages directs dans la barre latérale gauche.
+
+:::note
+Il n'est pas possible de modifier l'emplacement du dossier `kchat-desktop` sur votre disque dur.
+:::
+
+## Premiers pas
+
+Une fois connecté, explorez les actions essentielles :
+
+- [Créer et gérer des canaux](../canaux/)
+- [Démarrer une conversation](../conversations/)
+- [Inviter des membres et des invités externes](../membres/)
+- [Configurer les notifications](../notifications/)
+- [Découvrir Euria, l'IA intégrée](../ia/)
+- [Appeler en visioconférence avec kMeet](../integrations/)
+
+---
+
+## Sources
+
+- [Télécharger et installer kChat — FAQ 144](https://faq.infomaniak.com/144)
+- [Guide de démarrage kChat — FAQ 2076](https://faq.infomaniak.com/2076)
+- [Page produit kChat](https://www.infomaniak.com/fr/ksuite/kchat)

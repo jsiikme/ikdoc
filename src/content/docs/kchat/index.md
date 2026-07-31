@@ -4,7 +4,7 @@ title: Présentation
 
 kChat est la messagerie instantanée d'Infomaniak : **sécurisée, souveraine et parfaitement intégrée à kSuite**. Elle permet d'échanger en direct avec vos équipes, d'organiser vos projets par canaux et de coordonner vos collaborateurs depuis n'importe quel appareil.
 
-![Interface kChat — messagerie d'équipe](../../../assets/images/kchat/kchat-header.png)
+![Interface kChat — messagerie d'équipe](../../../assets/images/kchat/kchat-header.webp)
 
 ## Atouts principaux
 

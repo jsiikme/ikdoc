@@ -12,6 +12,9 @@ Vous pouvez protéger l'accès à une réunion par un mot de passe, à transmett
 4. Activez le bouton à bascule pour **Protéger l'accès**.
 5. Créez le **mot de passe**.
 6. Cliquez sur **Continuer** puis **Démarrez** la réunion.
+
+    ![Options de sécurité — création du mot de passe et démarrage](../../assets/images/kmeet/securite-mot-de-passe.png)
+
 7. Spécifiez le nom que vous voulez utiliser comme participant.
 8. Partagez le **lien ou le code de la réunion** ainsi que le **mot de passe** à vos participants.
 
@@ -31,6 +34,9 @@ Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les naviga
 
 1. Suivez la procédure de création de réunion jusqu'aux **options de sécurité**.
 2. Activez le bouton à bascule pour **chiffrer de bout en bout**.
+
+    ![Activation du chiffrement de bout en bout dans les options de sécurité](../../assets/images/kmeet/securite-e2e.png)
+
 3. Lors du démarrage de la visioconférence, **un message audio** se fait entendre pour annoncer le chiffrement de bout en bout.
 
 :::note[Limites du chiffrement E2E]
@@ -51,6 +57,9 @@ Le chiffrement E2E fonctionne **uniquement** avec les apps desktop et les naviga
 1. Démarrez kMeet et cliquez pour démarrer une nouvelle réunion.
 2. Cliquez sur le **chevron** en dessous du nom de la réunion pour développer les options avancées.
 3. Activez le **contrôle des participants** (salle d'attente).
+
+    ![Activation du contrôle des participants dans les options avancées](../../assets/images/kmeet/securite-controle-participants.png)
+
 4. **Démarrez** la réunion.
 5. Partagez le lien/code de la réunion et si nécessaire le mot de passe et/ou la clé de chiffrement.
 
@@ -70,6 +79,8 @@ Lorsqu'un participant tente de rejoindre la réunion :
 ### Options de modération avancées
 
 Accédez à **Paramètres** > **Modération** via le menu **○○○** :
+
+    ![Options de modération avancées dans les paramètres de kMeet](../../assets/images/kmeet/securite-moderation-avancee.png)
 
 | Option | Effet |
 |---|---|

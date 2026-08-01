@@ -1,6 +1,6 @@
 # Documentation kSuite
 
-Documentation synthétique et originale pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence) et **kChat** (messagerie instantanée).
+Documentation synthétique et originale pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence), **kChat** (messagerie instantanée) et **kDrive** (stockage en ligne).
 
 ## Sommaire
 
@@ -35,6 +35,22 @@ Documentation synthétique et originale pour les outils collaboratifs d'Infomani
 | [Plateformes et apparence](https://jsiikme.github.io/ikdoc/kchat/plateformes/) | Plateformes, dark mode |
 | [FAQ](https://jsiikme.github.io/ikdoc/kchat/faq/) | Questions fréquentes condensées |
 
+### kDrive — Stockage en ligne
+
+| Page | Sujet |
+|------|-------|
+| [Présentation](https://jsiikme.github.io/ikdoc/kdrive/) | Vue d'ensemble de kDrive, atouts, souveraineté |
+| [Démarrage](https://jsiikme.github.io/ikdoc/kdrive/demarrage/) | Accès, installation, migration, premiers pas |
+| [Gestion des fichiers](https://jsiikme.github.io/ikdoc/kdrive/fichiers/) | Édition photos, signature PDF, versioning, recherche IA |
+| [Partage et collaboration](https://jsiikme.github.io/ikdoc/kdrive/partage/) | Liens, invitations, boîtes de dépôt, Custom Brand |
+| [Synchronisation](https://jsiikme.github.io/ikdoc/kdrive/synchronisation/) | Desktop, Lite Sync, dépannage multiplateforme |
+| [OnlyOffice](https://jsiikme.github.io/ikdoc/kdrive/onlyoffice/) | Suite open source intégrée, collaboration temps réel |
+| [Microsoft 365](https://jsiikme.github.io/ikdoc/kdrive/microsoft-365/) | Word, Excel, PowerPoint hébergés en Suisse |
+| [SwissTransfer](https://jsiikme.github.io/ikdoc/kdrive/swisstransfer/) | Transfert de fichiers jusqu'à 50 Go |
+| [Sécurité et administration](https://jsiikme.github.io/ikdoc/kdrive/securite/) | Chiffrement, rôles, gestion des utilisateurs |
+| [Applications et plateformes](https://jsiikme.github.io/ikdoc/kdrive/applications/) | Web, desktop, mobile |
+| [FAQ](https://jsiikme.github.io/ikdoc/kdrive/faq/) | Questions fréquentes condensées |
+
 ## Sources
 
 Le contenu de cette documentation est une synthèse originale basée sur :
@@ -43,5 +59,7 @@ Le contenu de cette documentation est une synthèse originale basée sur :
 - La [FAQ kMeet](https://www.infomaniak.com/fr/support/faq/admin2/kmeet) du Centre d'aide Infomaniak
 - La [page produit kChat](https://www.infomaniak.com/fr/ksuite/kchat)
 - La [FAQ kChat](https://www.infomaniak.com/fr/support/faq/admin2/kchat) du Centre d'aide Infomaniak
+- La [page produit kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)
+- La [FAQ kDrive](https://www.infomaniak.com/fr/support/faq/admin2/kdrive) du Centre d'aide Infomaniak
 
 Chaque page cite les articles de référence utilisés (FAQ ID Infomaniak).

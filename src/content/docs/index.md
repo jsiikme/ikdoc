@@ -37,6 +37,22 @@ Messagerie instantanée **sécurisée et souveraine**, intégrée à kSuite. Éc
 - [Plateformes et apparence](kchat/plateformes/) — Plateformes, dark mode
 - [FAQ](kchat/faq/) — Questions fréquentes condensées
 
+## kDrive — Stockage en ligne
+
+Cloud collaboratif **sécurisé et souverain**, intégré à kSuite. Stockez, partagez et collaborez sur vos fichiers, avec OnlyOffice et Microsoft 365 intégrés.
+
+- [Présentation](kdrive/) — Atouts, fonctionnalités clés, souveraineté
+- [Démarrage](kdrive/demarrage/) — Accès, installation, migration, premiers pas
+- [Gestion des fichiers](kdrive/fichiers/) — Édition photos, signature PDF, versioning, recherche IA
+- [Partage et collaboration](kdrive/partage/) — Liens, invitations, boîtes de dépôt, Custom Brand
+- [Synchronisation](kdrive/synchronisation/) — Desktop, Lite Sync, dépannage multiplateforme
+- [OnlyOffice](kdrive/onlyoffice/) — Suite open source intégrée, collaboration temps réel
+- [Microsoft 365](kdrive/microsoft-365/) — Word, Excel, PowerPoint hébergés en Suisse
+- [SwissTransfer](kdrive/swisstransfer/) — Transfert de fichiers jusqu'à 50 Go
+- [Sécurité et administration](kdrive/securite/) — Chiffrement, rôles, gestion des utilisateurs
+- [Applications et plateformes](kdrive/applications/) — Web, desktop, mobile
+- [FAQ](kdrive/faq/) — Questions fréquentes condensées
+
 ---
 
 ## Sources
@@ -45,3 +61,5 @@ Messagerie instantanée **sécurisée et souveraine**, intégrée à kSuite. Éc
 - [FAQ kMeet](https://www.infomaniak.com/fr/support/faq/admin2/kmeet)
 - [Page produit kChat](https://www.infomaniak.com/fr/ksuite/kchat)
 - [FAQ kChat](https://www.infomaniak.com/fr/support/faq/admin2/kchat)
+- [Page produit kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)
+- [FAQ kDrive](https://www.infomaniak.com/fr/support/faq/admin2/kdrive)

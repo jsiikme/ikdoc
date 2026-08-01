@@ -7,7 +7,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'kSuite',
-      description: 'Guides complets pour kMeet (visioconférence) et kChat (messagerie instantanée) par Infomaniak',
+      description: 'Guides complets pour kMeet (visioconférence), kChat (messagerie instantanée) et kDrive (stockage en ligne) par Infomaniak',
       defaultLocale: 'fr',
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/jsiikme/ikdoc' },
@@ -43,6 +43,22 @@ export default defineConfig({
             { label: 'Intégrations', link: '/kchat/integrations/' },
             { label: 'Plateformes et apparence', link: '/kchat/plateformes/' },
             { label: 'FAQ', link: '/kchat/faq/' },
+          ],
+        },
+        {
+          label: 'kDrive',
+          items: [
+            { label: 'Présentation', link: '/kdrive/' },
+            { label: 'Démarrage', link: '/kdrive/demarrage/' },
+            { label: 'Gestion des fichiers', link: '/kdrive/fichiers/' },
+            { label: 'Partage et collaboration', link: '/kdrive/partage/' },
+            { label: 'Synchronisation', link: '/kdrive/synchronisation/' },
+            { label: 'OnlyOffice', link: '/kdrive/onlyoffice/' },
+            { label: 'Microsoft 365', link: '/kdrive/microsoft-365/' },
+            { label: 'SwissTransfer', link: '/kdrive/swisstransfer/' },
+            { label: 'Sécurité et administration', link: '/kdrive/securite/' },
+            { label: 'Applications et plateformes', link: '/kdrive/applications/' },
+            { label: 'FAQ', link: '/kdrive/faq/' },
           ],
         },
       ],

@@ -7,7 +7,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'kSuite',
-      description: 'Guides complets pour kMeet (visioconférence), kChat (messagerie instantanée) et kDrive (stockage en ligne) par Infomaniak',
+      description: 'Guides complets pour kMeet (visioconférence), kChat (messagerie instantanée), kDrive (stockage en ligne) et Service Mail (messagerie) par Infomaniak',
       defaultLocale: 'fr',
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/jsiikme/ikdoc' },
@@ -59,6 +59,21 @@ export default defineConfig({
             { label: 'Sécurité et administration', link: '/kdrive/securite/' },
             { label: 'Applications et plateformes', link: '/kdrive/applications/' },
             { label: 'FAQ', link: '/kdrive/faq/' },
+          ],
+        },
+        {
+          label: 'Service Mail',
+          items: [
+            { label: 'Présentation', link: '/mail/' },
+            { label: 'Démarrage', link: '/mail/demarrage/' },
+            { label: 'Messagerie', link: '/mail/messagerie/' },
+            { label: 'Sécurité', link: '/mail/securite/' },
+            { label: 'Contacts et calendrier', link: '/mail/contacts-calendar/' },
+            { label: 'IA souveraine', link: '/mail/ia/' },
+            { label: 'Écosystème kSuite', link: '/mail/ecosysteme/' },
+            { label: 'Administration', link: '/mail/administration/' },
+            { label: 'Migration', link: '/mail/migration/' },
+            { label: 'FAQ', link: '/mail/faq/' },
           ],
         },
       ],

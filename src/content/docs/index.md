@@ -53,6 +53,21 @@ Cloud collaboratif **sécurisé et souverain**, intégré à kSuite. Stockez, pa
 - [Applications et plateformes](kdrive/applications/) — Web, desktop, mobile
 - [FAQ](kdrive/faq/) — Questions fréquentes condensées
 
+## Service Mail — Messagerie
+
+Messagerie **sécurisée et souveraine**, intégrée à kSuite. Gérez vos e-mails, contacts et calendriers en Suisse avec un service mail éthique.
+
+- [Présentation](mail/) — Atouts, sécurité, souveraineté, offres
+- [Démarrage](mail/demarrage/) — Accès, configuration, IMAP/SMTP, app mobile
+- [Messagerie](mail/messagerie/) — Envoi, pièces jointes, signatures, répondeur, filtres
+- [Sécurité](mail/securite/) — Chiffrement, SPF/DKIM/DMARC, anti-spam, RGPD
+- [Contacts et calendrier](mail/contacts-calendar/) — CardDAV, CalDAV, partage, import
+- [IA souveraine](mail/ia/) — Rédaction, traduction, correction avec IA suisse
+- [Écosystème kSuite](mail/ecosysteme/) — kDrive, kMeet, SwissTransfer, intégrations
+- [Administration](mail/administration/) — Adresses, alias, redirections, domaines, SSO
+- [Migration](mail/migration/) — Import IMAP, depuis Gmail/Outlook/GMX
+- [FAQ](mail/faq/) — Questions fréquentes condensées
+
 ---
 
 ## Sources
@@ -63,3 +78,5 @@ Cloud collaboratif **sécurisé et souverain**, intégré à kSuite. Stockez, pa
 - [FAQ kChat](https://www.infomaniak.com/fr/support/faq/admin2/kchat)
 - [Page produit kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)
 - [FAQ kDrive](https://www.infomaniak.com/fr/support/faq/admin2/kdrive)
+- [Page produit Service Mail](https://www.infomaniak.com/fr/ksuite/service-mail)
+- [FAQ Service Mail](https://www.infomaniak.com/fr/support/faq/admin2/service-mail)

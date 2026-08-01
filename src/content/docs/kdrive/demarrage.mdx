@@ -1,0 +1,109 @@
+---
+title: Démarrage
+---
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+Ce guide explique comment accéder à kDrive, installer l'application desktop et configurer la synchronisation.
+
+## Obtenir kDrive
+
+kDrive est accessible de plusieurs manières selon votre offre :
+
+| Offre | Accès |
+|---|---|
+| my kSuite (gratuit) | 15 Go de stockage kDrive inclus, accessible depuis [ksuite.infomaniak.com/kdrive](https://ksuite.infomaniak.com/kdrive) |
+| kDrive Solo / Team / Pro | Abonnement kDrive indépendant, activation depuis le [Manager Infomaniak](https://manager.infomaniak.com) |
+| kSuite Pro / Enterprise | kDrive inclus avec kChat, Mail et les autres outils collaboratifs |
+
+:::tip
+Pour tester gratuitement kDrive, créez un compte et activez la période d'essai de 30 jours. Aucun engagement : résiliation possible à tout moment avant la fin de l'essai.
+:::
+
+## Accéder à kDrive depuis le navigateur
+
+L'app Web kDrive permet de tout faire sans installer de logiciel :
+
+1. Rendez-vous sur [ksuite.infomaniak.com/kdrive](https://ksuite.infomaniak.com/kdrive).
+2. Connectez-vous avec votre compte Infomaniak.
+3. L'interface kDrive s'affiche avec votre arborescence de dossiers et fichiers.
+
+Depuis le navigateur, vous pouvez :
+- Modifier en ligne des documents, feuilles de calcul et présentations.
+- Collaborez en temps réel sur des fichiers Word, Excel et PowerPoint.
+- Partager facilement les fichiers et dossiers de votre choix.
+- Récupérer une ancienne version de vos fichiers.
+- Inviter vos contacts à vous envoyer des fichiers via les boîtes de dépôt.
+- Lancer des recherches dans tout votre kDrive et le contenu de vos documents.
+
+## Installer l'application desktop
+
+L'application desktop synchronise automatiquement les fichiers entre votre ordinateur et kDrive. Vos fichiers apparaissent dans votre gestionnaire de fichiers habituel.
+
+<Tabs>
+  <TabItem label="macOS">
+    1. Téléchargez l'application depuis [infomaniak.com/fr/applications/telecharger-kdrive](https://www.infomaniak.com/fr/applications/telecharger-kdrive).
+    2. Ouvrez le fichier `.dmg` et glissez kDrive dans le dossier Applications.
+    3. Lancez kDrive et connectez-vous avec votre compte Infomaniak.
+    4. Choisissez le kDrive à synchroniser et l'emplacement du dossier local.
+  </TabItem>
+  <TabItem label="Windows">
+    1. Téléchargez l'installateur depuis [infomaniak.com/fr/applications/telecharger-kdrive](https://www.infomaniak.com/fr/applications/telecharger-kdrive).
+    2. Exécutez le fichier téléchargé.
+    3. Lancez kDrive et connectez-vous avec votre compte Infomaniak.
+    4. Choisissez le kDrive à synchroniser et l'emplacement du dossier local.
+  </TabItem>
+  <TabItem label="Linux">
+    1. Téléchargez le fichier `.AppImage` depuis [infomaniak.com/fr/applications/telecharger-kdrive](https://www.infomaniak.com/fr/applications/telecharger-kdrive).
+    2. Placez le fichier dans un dossier de votre choix (par exemple `~/Applications/`).
+    3. Faites un clic droit > **Propriétés** > **Permissions** > cochez « Autoriser l'exécution du fichier comme un programme ».
+    4. Lancez kDrive et connectez-vous.
+
+    :::note[Limitations Linux]
+    Certaines fonctionnalités avancées ne sont pas disponibles sur Linux : pas de **Lite Sync** ni de **menu contextuel** (clic droit). Support officiel limité à Ubuntu 22.04 LTS+ avec GNOME ou KDE.
+    :::
+  </TabItem>
+</Tabs>
+
+## Installer l'application mobile
+
+L'app mobile kDrive est disponible sur iOS et Android :
+
+- **iOS** : [App Store](https://apps.apple.com/app/infomaniak-drive/id1482778676)
+- **Android** : [Google Play](https://play.google.com/store/apps/details?id=com.infomaniak.drive)
+
+Depuis votre mobile, vous pouvez :
+- Accéder à tous vos fichiers.
+- Travailler et collaborer sur des documents.
+- Envoyer des fichiers sur votre Drive et les partager en un clic.
+- Sauvegarder en temps réel les photos et vidéos de votre mobile.
+- Numériser facilement des documents dans votre Drive.
+
+## Migration depuis un autre service
+
+kDrive propose un outil de migration automatique pour importer le contenu de votre cloud actuel :
+
+- **Dropbox** : importez directement depuis votre compte Dropbox.
+- **OneDrive** : importez directement depuis votre compte OneDrive.
+
+![Migration depuis un autre cloud](../../../assets/images/kdrive/drive-import.webp)
+
+## Premiers pas
+
+Une fois votre kDrive configuré, explorez les actions essentielles :
+
+- [Gérer vos fichiers et dossiers](../fichiers/)
+- [Partager des fichiers et dossiers](../partage/)
+- [Configurer la synchronisation](../synchronisation/)
+- [Collaborer avec OnlyOffice](../onlyoffice/)
+- [Envoyer des gros fichiers avec SwissTransfer](../swisstransfer/)
+- [Sécurité et administration](../securite/)
+
+---
+
+## Sources
+
+- [Page produit kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)
+- [Page applications kDrive](https://www.infomaniak.com/fr/ksuite/kdrive/applications)
+- [Installer kDrive sur Linux — FAQ 617](https://faq.infomaniak.com/617)
+- [Modifier une offre kDrive existante — FAQ 1577](https://faq.infomaniak.com/1577)

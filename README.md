@@ -1,6 +1,6 @@
 # Documentation kSuite
 
-Documentation synthétique et originale pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence), **kChat** (messagerie instantanée) et **kDrive** (stockage en ligne).
+Documentation synthétique et originale pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence), **kChat** (messagerie instantanée), **kDrive** (stockage en ligne) et **Service Mail** (messagerie).
 
 ## Sommaire
 
@@ -51,6 +51,21 @@ Documentation synthétique et originale pour les outils collaboratifs d'Infomani
 | [Applications et plateformes](https://jsiikme.github.io/ikdoc/kdrive/applications/) | Web, desktop, mobile |
 | [FAQ](https://jsiikme.github.io/ikdoc/kdrive/faq/) | Questions fréquentes condensées |
 
+### Service Mail — Messagerie
+
+| Page | Sujet |
+|------|-------|
+| [Présentation](https://jsiikme.github.io/ikdoc/mail/) | Vue d'ensemble de Service Mail, atouts, souveraineté |
+| [Démarrage](https://jsiikme.github.io/ikdoc/mail/demarrage/) | Accès, configuration, IMAP/SMTP, app mobile |
+| [Messagerie](https://jsiikme.github.io/ikdoc/mail/messagerie/) | Envoi, pièces jointes, signatures, répondeur, filtres |
+| [Sécurité](https://jsiikme.github.io/ikdoc/mail/securite/) | Chiffrement, SPF/DKIM/DMARC, anti-spam, RGPD |
+| [Contacts et calendrier](https://jsiikme.github.io/ikdoc/mail/contacts-calendar/) | CardDAV, CalDAV, partage, import |
+| [IA souveraine](https://jsiikme.github.io/ikdoc/mail/ia/) | Rédaction, traduction, correction avec IA suisse |
+| [Écosystème kSuite](https://jsiikme.github.io/ikdoc/mail/ecosysteme/) | kDrive, kMeet, SwissTransfer, intégrations |
+| [Administration](https://jsiikme.github.io/ikdoc/mail/administration/) | Adresses, alias, redirections, domaines, SSO |
+| [Migration](https://jsiikme.github.io/ikdoc/mail/migration/) | Import IMAP, depuis Gmail/Outlook/GMX |
+| [FAQ](https://jsiikme.github.io/ikdoc/mail/faq/) | Questions fréquentes condensées |
+
 ## Sources
 
 Le contenu de cette documentation est une synthèse originale basée sur :
@@ -61,5 +76,7 @@ Le contenu de cette documentation est une synthèse originale basée sur :
 - La [FAQ kChat](https://www.infomaniak.com/fr/support/faq/admin2/kchat) du Centre d'aide Infomaniak
 - La [page produit kDrive](https://www.infomaniak.com/fr/ksuite/kdrive)
 - La [FAQ kDrive](https://www.infomaniak.com/fr/support/faq/admin2/kdrive) du Centre d'aide Infomaniak
+- La [page produit Service Mail](https://www.infomaniak.com/fr/ksuite/service-mail)
+- La [FAQ Service Mail](https://www.infomaniak.com/fr/support/faq/admin2/service-mail) du Centre d'aide Infomaniak
 
 Chaque page cite les articles de référence utilisés (FAQ ID Infomaniak).

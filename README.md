@@ -1,6 +1,8 @@
 # Documentation kSuite
 
-Documentation synthétique et originale pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence), **kChat** (messagerie instantanée), **kDrive** (stockage en ligne) et **Service Mail** (messagerie).
+Documentation **NON OFFICIELLE** pour les outils collaboratifs d'Infomaniak : **kMeet** (visioconférence), **kChat** (messagerie instantanée), **kDrive** (stockage en ligne) et **Service Mail** (messagerie).
+
+Contenu généré avec l'IA sur la base des informations issues des pages produit et des FAQ publiées sur le site infomaniak.com.
 
 ## Sommaire
 
